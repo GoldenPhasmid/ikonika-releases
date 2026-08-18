@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "packages": [
+    {
+      "id": "dictionary-fr",
+      "kind": "dictionary",
+      "target": "fr",
+      "natives": ["en"],
+      "version": 1,
+      "dictionarySchema": 8,
+      "file": "fr-dictionary.zip",
+      "unpackTo": ".",
+      "url": "https://github.com/GoldenPhasmid/ikonika-data/releases/download/dictionary-fr-1/fr-dictionary.zip",
+      "bytes": 26387439,
+      "unpackedBytes": 51798016,
+      "sha256": "18b6c86d94e84d154ce8f7889dbb1d18557fcc12b7e3a29af6425d6646320b7d"
+    },
+    {
+      "id": "dictionary-es",
+      "kind": "dictionary",
+      "target": "es",
+      "natives": ["en"],
+      "version": 1,
+      "dictionarySchema": 8,
+      "file": "es-dictionary.zip",
+      "unpackTo": ".",
+      "url": "https://github.com/GoldenPhasmid/ikonika-data/releases/download/dictionary-es-1/es-dictionary.zip",
+      "bytes": 26254852,
+      "unpackedBytes": 52981760,
+      "sha256": "db80d2f0479ff5b1af5f35d852525f1e178804293c65a79668effc6c7b2ebc49"
+    },
+    {
+      "id": "dictionary-en",
+      "kind": "dictionary",
+      "target": "en",
+      "natives": ["uk"],
+      "version": 1,
+      "dictionarySchema": 8,
+      "file": "en-dictionary.zip",
+      "unpackTo": ".",
+      "url": "https://github.com/GoldenPhasmid/ikonika-data/releases/download/dictionary-en-1/en-dictionary.zip",
+      "bytes": 36030735,
+      "unpackedBytes": 73207808,
+      "sha256": "6447c4dd3746a11bd4c22a71b08a53081f6eec49e4bf308350988c8968261dc2"
+    },
+    {
+      "id": "supertonic-3",
+      "kind": "voice",
+      "target": null,
+      "version": 1,
+      "file": "supertonic-3.zip",
+      "unpackTo": "models/supertonic-3",
+      "url": "https://github.com/GoldenPhasmid/ikonika-data/releases/download/voice-supertonic-3-1/supertonic-3.zip",
+      "bytes": 124040185,
+      "unpackedBytes": 145316356,
+      "sha256": "b8d327f06b0c80238f1115ca2289a205a1af2487ba06459f2315144c13e00f63"
+    },
+    {
+      "id": "opus-mt-fr-en",
+      "kind": "translation",
+      "target": "fr",
+      "natives": ["en"],
+      "version": 1,
+      "desktopOnly": true,
+      "file": "opus-mt-fr-en.zip",
+      "unpackTo": "models/opus-mt-fr-en",
+      "url": "https://github.com/GoldenPhasmid/ikonika-data/releases/download/translation-opus-mt-fr-en-1/opus-mt-fr-en.zip",
+      "bytes": 393620843,
+      "unpackedBytes": 426397140,
+      "sha256": "95f375a9ee3fcabb3e3d52dc7033ba0ad0cf19527406b48d5d5cc487d3d9af14"
+    },
+    {
+      "id": "opus-mt-es-en",
+      "kind": "translation",
+      "target": "es",
+      "natives": ["en"],
+      "version": 1,
+      "desktopOnly": true,
+      "file": "opus-mt-es-en.zip",
+      "unpackTo": "models/opus-mt-es-en",
+      "url": "https://github.com/GoldenPhasmid/ikonika-data/releases/download/translation-opus-mt-es-en-1/opus-mt-es-en.zip",
+      "bytes": 414092932,
+      "unpackedBytes": 449202456,
+      "sha256": "b080b2243822d034cf029bdccc37b0b9ba61250c12f358fccd85c63954867a45"
+    }
+  ]
+}
