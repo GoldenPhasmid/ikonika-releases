@@ -1,5 +1,13 @@
 {
   "schema": 1,
+  "app": {
+    "version": "0.1.0",
+    "file": "Ikonika-Setup-0.1.0.exe",
+    "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/app-0.1.0/Ikonika-Setup-0.1.0.exe",
+    "bytes": 40122048,
+    "sha256": "d4816d90b71e867fe42e6593612c8e46369e27c8449f16db4c18a22430513813",
+    "silentArguments": "/VERYSILENT"
+  },
   "packages": [
     {
       "id": "dictionary-fr",
