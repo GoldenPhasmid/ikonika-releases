@@ -43,7 +43,7 @@
       "target": null,
       "version": 1,
       "file": "supertonic-3.zip",
-      "unpackTo": "models/supertonic-3",
+      "unpackTo": "supertonic-3",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/voice-supertonic-3-1/supertonic-3.zip",
       "bytes": 124040185,
       "unpackedBytes": 145316356,
