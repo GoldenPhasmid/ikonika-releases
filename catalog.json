@@ -45,9 +45,9 @@
       "file": "piper-fr.zip",
       "unpackTo": "piper-fr",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/voice-piper-fr-1/piper-fr.zip",
-      "bytes": 67430538,
+      "bytes": 67403856,
       "unpackedBytes": 81146921,
-      "sha256": "e872fa9614bbdf4e513abfbdbce0095328283058f19d126fde0f581ce9d3bc18"
+      "sha256": "d99e9ada56f83c1bb7ca89c8aa3887901ae9ed83d3169f23e6dd6fe58f46bb92"
     },
     {
       "id": "piper-es",
@@ -57,9 +57,9 @@
       "file": "piper-es.zip",
       "unpackTo": "piper-es",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/voice-piper-es-1/piper-es.zip",
-      "bytes": 67372419,
+      "bytes": 67347351,
       "unpackedBytes": 80947123,
-      "sha256": "ade384bf0229466cf018677306527a7ca9c8491e3f0317ab1263e936366e9a61"
+      "sha256": "981412201a3e260d92a5a5f3b5a3c6efec794667fcd20295408aab0e650a70ee"
     },
     {
       "id": "piper-en",
@@ -69,9 +69,9 @@
       "file": "piper-en.zip",
       "unpackTo": "piper-en",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/voice-piper-en-1/piper-en.zip",
-      "bytes": 67405651,
+      "bytes": 67377273,
       "unpackedBytes": 81199160,
-      "sha256": "c5bd03cb0e7bce070e95c0a77b275dc448b329a44435e9a5aae9237c4939fc3b"
+      "sha256": "573f37a151ac204d264aa71b619a4dfddedd535deaa8916aec51bdaf2ce5c891"
     }
   ]
 }
