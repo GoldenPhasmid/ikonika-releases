@@ -60,6 +60,18 @@
       "bytes": 67372419,
       "unpackedBytes": 80947123,
       "sha256": "ade384bf0229466cf018677306527a7ca9c8491e3f0317ab1263e936366e9a61"
+    },
+    {
+      "id": "piper-en",
+      "kind": "voice",
+      "target": "en",
+      "version": 1,
+      "file": "piper-en.zip",
+      "unpackTo": "piper-en",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/voice-piper-en-1/piper-en.zip",
+      "bytes": 67405651,
+      "unpackedBytes": 81199160,
+      "sha256": "c5bd03cb0e7bce070e95c0a77b275dc448b329a44435e9a5aae9237c4939fc3b"
     }
   ]
 }
