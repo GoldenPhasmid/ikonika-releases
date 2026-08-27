@@ -38,16 +38,28 @@
       "sha256": "d146ac5619f68012c687ffa52e549f0e95cb588bf9f05f665c815cbacae9a364"
     },
     {
-      "id": "supertonic-3",
+      "id": "piper-fr",
       "kind": "voice",
-      "target": null,
+      "target": "fr",
       "version": 1,
-      "file": "supertonic-3.zip",
-      "unpackTo": "supertonic-3",
-      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/voice-supertonic-3-1/supertonic-3.zip",
-      "bytes": 124040185,
-      "unpackedBytes": 145316356,
-      "sha256": "b8d327f06b0c80238f1115ca2289a205a1af2487ba06459f2315144c13e00f63"
+      "file": "piper-fr.zip",
+      "unpackTo": "piper-fr",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/voice-piper-fr-1/piper-fr.zip",
+      "bytes": 67430538,
+      "unpackedBytes": 81146921,
+      "sha256": "e872fa9614bbdf4e513abfbdbce0095328283058f19d126fde0f581ce9d3bc18"
+    },
+    {
+      "id": "piper-es",
+      "kind": "voice",
+      "target": "es",
+      "version": 1,
+      "file": "piper-es.zip",
+      "unpackTo": "piper-es",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/voice-piper-es-1/piper-es.zip",
+      "bytes": 67372419,
+      "unpackedBytes": 80947123,
+      "sha256": "ade384bf0229466cf018677306527a7ca9c8491e3f0317ab1263e936366e9a61"
     }
   ]
 }
