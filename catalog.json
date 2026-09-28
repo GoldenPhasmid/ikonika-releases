@@ -10,6 +10,20 @@
   },
   "packages": [
     {
+      "id": "dictionary-en",
+      "kind": "dictionary",
+      "target": "en",
+      "natives": ["uk"],
+      "version": 1,
+      "dictionarySchema": 9,
+      "file": "en-dictionary.zip",
+      "unpackTo": ".",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/dictionary-en-1/en-dictionary.zip",
+      "bytes": 38392060,
+      "unpackedBytes": 99741696,
+      "sha256": "6d0fa747ad50dcb6c7f1aad32e880fb4ec036777e724bff0d7832788f1f36a33"
+    },
+    {
       "id": "dictionary-fr",
       "kind": "dictionary",
       "target": "fr",
