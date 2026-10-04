@@ -14,14 +14,14 @@
       "kind": "dictionary",
       "target": "en",
       "natives": ["uk"],
-      "version": 2,
+      "version": 3,
       "dictionarySchema": 9,
       "file": "en-dictionary.zip",
       "unpackTo": ".",
-      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/dictionary-en-2/en-dictionary.zip",
-      "bytes": 33747062,
-      "unpackedBytes": 87748608,
-      "sha256": "32f20a0472f9cf49040dbaef266d1ae4b9b4c88596baeab0beba8220fd29e912"
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/dictionary-en-3/en-dictionary.zip",
+      "bytes": 41394959,
+      "unpackedBytes": 108589056,
+      "sha256": "920384584b3c248eb13f3afe6a18beb77ed4b6e603f2929fd44eb8c29c973cc2"
     },
     {
       "id": "dictionary-fr",
