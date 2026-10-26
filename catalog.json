@@ -170,5 +170,25 @@
       "unpackedBytes": 81199160,
       "sha256": "573f37a151ac204d264aa71b619a4dfddedd535deaa8916aec51bdaf2ce5c891"
     }
+  ],
+  "webSearch": [
+    {
+      "id": "reverso",
+      "name": "Reverso",
+      "url": "https://context.reverso.net/translation/{target}-{native}/{word}",
+      "languages": {
+        "de": "german", "en": "english", "es": "spanish", "fr": "french",
+        "it": "italian", "pt": "portuguese", "ru": "russian", "uk": "ukrainian"
+      }
+    },
+    {
+      "id": "google",
+      "name": "Google Translate",
+      "url": "https://translate.google.com/?sl={target}&tl={native}&text={word}&op=translate",
+      "languages": {
+        "de": "de", "en": "en", "es": "es", "fr": "fr",
+        "it": "it", "pt": "pt", "ru": "ru", "uk": "uk"
+      }
+    }
   ]
 }
