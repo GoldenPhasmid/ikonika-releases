@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "app": {
-    "version": "0.6.4",
-    "file": "Ikonika-Setup-0.6.4.exe",
-    "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/app-0.6.4/Ikonika-Setup-0.6.4.exe",
-    "bytes": 43196912,
-    "sha256": "ff572cd7c18d2d7aa4810fc28baecd0568c2e38772edee2973ce9d2e021613d6",
+    "version": "0.7.0",
+    "file": "Ikonika-Setup-0.7.0.exe",
+    "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/app-0.7.0/Ikonika-Setup-0.7.0.exe",
+    "bytes": 43567922,
+    "sha256": "2c25961c27da362186d67f47ade0e1a4adcd557372f0bb3053a9a0a359ff008a",
     "silentArguments": ["/VERYSILENT"]
   },
   "packages": [
@@ -14,14 +14,14 @@
       "kind": "dictionary",
       "target": "en",
       "natives": ["uk"],
-      "version": 7,
+      "version": 8,
       "dictionarySchema": 11,
       "file": "en-dictionary.zip",
       "unpackTo": ".",
-      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/dictionary-en-7/en-dictionary.zip",
-      "bytes": 48740908,
-      "unpackedBytes": 122507264,
-      "sha256": "2472ebee23aa4a46b5aa77ddf43c47ef46e639873407be5caa6191875dc9e2fb"
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/dictionary-en-8/en-dictionary.zip",
+      "bytes": 49933093,
+      "unpackedBytes": 124612608,
+      "sha256": "942bcc2f5bdc556d86df8724260249c1058948788daa1a4a91a1ba841cffc14e"
     },
     {
       "id": "dictionary-en-schema10",
@@ -42,14 +42,14 @@
       "kind": "dictionary",
       "target": "fr",
       "natives": ["en"],
-      "version": 13,
+      "version": 14,
       "dictionarySchema": 11,
       "file": "fr-dictionary.zip",
       "unpackTo": ".",
-      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/dictionary-fr-13/fr-dictionary.zip",
-      "bytes": 68495294,
-      "unpackedBytes": 166490112,
-      "sha256": "b669a5aade90fe449454b9481c08979901de28959b7229adc3a7663ba72c3023"
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/dictionary-fr-14/fr-dictionary.zip",
+      "bytes": 70070304,
+      "unpackedBytes": 168837120,
+      "sha256": "da66f79c2c55fc26d88eb7c88a51fda1baa1e26a575d6aa1a9e05165aafa5b71"
     },
     {
       "id": "dictionary-fr-schema10",
@@ -70,14 +70,14 @@
       "kind": "dictionary",
       "target": "es",
       "natives": ["en"],
-      "version": 13,
+      "version": 14,
       "dictionarySchema": 11,
       "file": "es-dictionary.zip",
       "unpackTo": ".",
-      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/dictionary-es-13/es-dictionary.zip",
-      "bytes": 58660266,
-      "unpackedBytes": 137695232,
-      "sha256": "977eb361e663431fe38e20e7e99ae98e5a26c7272116eb479f43c14196434ced"
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/dictionary-es-14/es-dictionary.zip",
+      "bytes": 59986145,
+      "unpackedBytes": 140005376,
+      "sha256": "b1c6c6d6872f40420fd20535fcd2d6ca2824d3aebfa25ed69d3c160a9115b15c"
     },
     {
       "id": "dictionary-es-schema10",
@@ -98,14 +98,14 @@
       "kind": "dictionary",
       "target": "pt",
       "natives": ["en"],
-      "version": 3,
+      "version": 4,
       "dictionarySchema": 11,
       "file": "pt-dictionary.zip",
       "unpackTo": ".",
-      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/dictionary-pt-3/pt-dictionary.zip",
-      "bytes": 39882525,
-      "unpackedBytes": 93626368,
-      "sha256": "a4784dfff6da0b28fcce29a08a8cbeeb734eee07b11fbb1f8cc1f39836fb533b"
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/dictionary-pt-4/pt-dictionary.zip",
+      "bytes": 40845867,
+      "unpackedBytes": 95399936,
+      "sha256": "8acc65dde87abd49294c2039a55d9c878a45e9aa485b103ad41698dd0da54b52"
     },
     {
       "id": "dictionary-pt-schema10",
