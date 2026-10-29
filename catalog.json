@@ -183,6 +183,48 @@
       "unpackedBytes": 232326278,
       "sha256": "46f770f0ac2a4b2ef0324b74bf4c285a12acc2e622eea0754662473beda3bbff",
       "desktopOnly": true
+    },
+    {
+      "id": "opus-mt-en-uk",
+      "kind": "translation",
+      "target": "en",
+      "natives": ["uk"],
+      "version": 1,
+      "file": "opus-mt-en-uk.zip",
+      "unpackTo": "opus-mt-en-uk",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/translation-opus-mt-en-uk-1/opus-mt-en-uk.zip",
+      "bytes": 71753938,
+      "unpackedBytes": 113537164,
+      "sha256": "cdc3fc5e7723723af4e1f35fcd7d039c624f4ac9442dbf1c3a181c5558a95040",
+      "desktopOnly": true
+    },
+    {
+      "id": "opus-mt-pt-en",
+      "kind": "translation",
+      "target": "pt",
+      "natives": ["en"],
+      "version": 1,
+      "file": "opus-mt-pt-en.zip",
+      "unpackTo": "opus-mt-pt-en",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/translation-opus-mt-pt-en-1/opus-mt-pt-en.zip",
+      "bytes": 71352319,
+      "unpackedBytes": 115909460,
+      "sha256": "040e746ae86f9ef9e63977f5f8ef7d7e837a66ac134587dd56a5c34b407fb348",
+      "desktopOnly": true
+    },
+    {
+      "id": "opus-mt-es-en",
+      "kind": "translation",
+      "target": "es",
+      "natives": ["en"],
+      "version": 1,
+      "file": "opus-mt-es-en.zip",
+      "unpackTo": "opus-mt-es-en",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/translation-opus-mt-es-en-1/opus-mt-es-en.zip",
+      "bytes": 201647000,
+      "unpackedBytes": 249512906,
+      "sha256": "0e6775d29cd55b6d59c20bcd71576ceffcb9a261c1152a7ab8a829f161c22bcd",
+      "desktopOnly": true
     }
   ],
   "webSearch": [
