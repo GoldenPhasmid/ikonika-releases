@@ -1,0 +1,96 @@
+{
+  "schema": 1,
+  "target": "en",
+  "books": [
+    {
+      "id": "potter-the-tale-of-peter-rabbit",
+      "title": "The Tale of Peter Rabbit",
+      "author": "Beatrix Potter",
+      "file": "potter-the-tale-of-peter-rabbit.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/potter-the-tale-of-peter-rabbit.epub",
+      "bytes": 1485644,
+      "sha256": "e065af8a8dd2ac7759b290097029adff8ff72725f88c95a2af5c61c21da3fd1e"
+    },
+    {
+      "id": "williams-the-velveteen-rabbit",
+      "title": "The Velveteen Rabbit",
+      "author": "Margery Williams",
+      "file": "williams-the-velveteen-rabbit.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/williams-the-velveteen-rabbit.epub",
+      "bytes": 462999,
+      "sha256": "9d9618f71fb4e800da4a12a5205e41e9502f4060bfe787d61739440c6ca5cad5"
+    },
+    {
+      "id": "wilde-the-happy-prince-and-other-tales",
+      "title": "The Happy Prince and Other Tales",
+      "author": "Oscar Wilde",
+      "file": "wilde-the-happy-prince-and-other-tales.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/wilde-the-happy-prince-and-other-tales.epub",
+      "bytes": 4420615,
+      "sha256": "08514d6a1c4364688e8359c586f7152b34e6818f7f2cd28c1c523ceecba3041b"
+    },
+    {
+      "id": "baum-the-wonderful-wizard-of-oz",
+      "title": "The Wonderful Wizard of Oz",
+      "author": "L. Frank Baum",
+      "file": "baum-the-wonderful-wizard-of-oz.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/baum-the-wonderful-wizard-of-oz.epub",
+      "bytes": 340520,
+      "sha256": "d3e633a72c496ffbf7a272a1179aba08d2297be1d916b0bdbbba24531fa6da35"
+    },
+    {
+      "id": "sewell-black-beauty",
+      "title": "Black Beauty",
+      "author": "Anna Sewell",
+      "file": "sewell-black-beauty.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/sewell-black-beauty.epub",
+      "bytes": 382196,
+      "sha256": "1b9daf28a6ce62e3069397571b078c1f2437bc930211077f02f1a8805a3c1f6d"
+    },
+    {
+      "id": "carroll-alices-adventures-in-wonderland",
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "file": "carroll-alices-adventures-in-wonderland.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/carroll-alices-adventures-in-wonderland.epub",
+      "bytes": 177891,
+      "sha256": "6632220e262446271dae9a11bac262f154726ca3873eeac5c9db1f45fa1725c1"
+    },
+    {
+      "id": "burnett-the-secret-garden",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "file": "burnett-the-secret-garden.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/burnett-the-secret-garden.epub",
+      "bytes": 203356,
+      "sha256": "5fa42da879af34b6330f38c5698be0c011a2310349b45da1f06c3219927fb401"
+    },
+    {
+      "id": "kipling-the-jungle-book",
+      "title": "The Jungle Book",
+      "author": "Rudyard Kipling",
+      "file": "kipling-the-jungle-book.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/kipling-the-jungle-book.epub",
+      "bytes": 172820,
+      "sha256": "0c7b4681eb63fc3fb45aefe5314108c0bcad4682e98e1a5ccba5aa076a522134"
+    },
+    {
+      "id": "stevenson-the-strange-case-of-dr-jekyll-and-mr-hyde",
+      "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+      "author": "Robert Louis Stevenson",
+      "file": "stevenson-the-strange-case-of-dr-jekyll-and-mr-hyde.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/stevenson-the-strange-case-of-dr-jekyll-and-mr-hyde.epub",
+      "bytes": 294378,
+      "sha256": "0124092f4ee7201fd0c7be366a2dff957d09357c92421b961c7ce91cf3ef4c16"
+    },
+    {
+      "id": "doyle-the-adventures-of-sherlock-holmes",
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "file": "doyle-the-adventures-of-sherlock-holmes.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/doyle-the-adventures-of-sherlock-holmes.epub",
+      "bytes": 371824,
+      "sha256": "0ca5bbe9ddc18a69716054148734357a41beed82a54d6ee5f2ff25e26fdc7995"
+    }
+  ]
+}
