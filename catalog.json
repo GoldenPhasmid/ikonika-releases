@@ -246,5 +246,8 @@
         "it": "it", "pt": "pt", "ru": "ru", "uk": "uk"
       }
     }
-  ]
+  ],
+  "books": {
+    "fr": "https://raw.githubusercontent.com/GoldenPhasmid/ikonika-releases/main/books-fr.json"
+  }
 }

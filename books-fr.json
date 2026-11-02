@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "target": "fr",
+  "books": [
+    {
+      "id": "segur-les-malheurs-de-sophie",
+      "title": "Les Malheurs de Sophie",
+      "author": "Comtesse de Ségur",
+      "file": "segur-les-malheurs-de-sophie.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/segur-les-malheurs-de-sophie.epub",
+      "bytes": 83402,
+      "sha256": "fbd8da0e895a139946efd432e58f87f4be71d9cbddb7ff900188fbe19d681b67"
+    }
+  ]
+}
