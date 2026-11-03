@@ -21,7 +21,7 @@ device. Without Google sign-in, this data never leaves the device.
 
 Signing in is optional. The app works fully without it.
 
-When you sign in with Google, Ikonika requests three permissions:
+When you sign in with Google, Ikonika requests access to two things:
 
 - Your email address and name, to show which account is signed in.
 - Access to a hidden app folder in your Google Drive. Ikonika stores a copy of your words and
