@@ -81,6 +81,46 @@
       "bytes": 119890,
       "sha256": "4e2ead8752d67fce7a8e1c45a12f1b5ed5c8f50d16d3064fb27898b574baadf4",
       "level": "advanced"
+    },
+    {
+      "id": "stevenson-l-ile-au-tresor",
+      "title": "L’Île au trésor",
+      "author": "Robert Louis Stevenson",
+      "level": "intermediate",
+      "file": "stevenson-l-ile-au-tresor.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/stevenson-l-ile-au-tresor.epub",
+      "bytes": 3794988,
+      "sha256": "a0f59bb5c4683f355f35a3e9f4f1c0824cbfdf0bde5d70963823fca297f0fe30"
+    },
+    {
+      "id": "carroll-alice-au-pays-des-merveilles",
+      "title": "Aventures d’Alice au pays des merveilles",
+      "author": "Lewis Carroll",
+      "level": "advanced",
+      "file": "carroll-alice-au-pays-des-merveilles.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/carroll-alice-au-pays-des-merveilles.epub",
+      "bytes": 11831314,
+      "sha256": "87584e19b03d46d94263abbb11e3b899fd5117d5cc802784af23299a83df82a0"
+    },
+    {
+      "id": "kipling-le-livre-de-la-jungle",
+      "title": "Le Livre de la jungle",
+      "author": "Rudyard Kipling",
+      "level": "advanced",
+      "file": "kipling-le-livre-de-la-jungle.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/kipling-le-livre-de-la-jungle.epub",
+      "bytes": 214679,
+      "sha256": "ea481cae0b644d47f90189c65221b382839f90daab20cb85f4f7d251fe5837fc"
+    },
+    {
+      "id": "twain-tom-sawyer-hughes-1884",
+      "title": "Les Aventures de Tom Sawyer (adaptation de 1884)",
+      "author": "Mark Twain",
+      "level": "intermediate",
+      "file": "twain-tom-sawyer-hughes-1884.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/twain-tom-sawyer-hughes-1884.epub",
+      "bytes": 174677,
+      "sha256": "5ccfbbc6506d2861ae48b5445e1369b91ae8b29a066f3e1ad697b671d73c877d"
     }
   ]
 }

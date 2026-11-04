@@ -191,6 +191,16 @@
       "bytes": 465210,
       "sha256": "cb6091b91320982af7ae1fdcceac698b3f3022ab58574064d61da97d3287bb1c",
       "level": "intermediate"
+    },
+    {
+      "id": "stevenson-treasure-island",
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "level": "intermediate",
+      "file": "stevenson-treasure-island.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/stevenson-treasure-island.epub",
+      "bytes": 49174750,
+      "sha256": "ba368a4b3e441c091d1e74a5551b4907ab3bf3fa96d3242814a01ce3117e655f"
     }
   ]
 }

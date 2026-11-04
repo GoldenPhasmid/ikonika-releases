@@ -91,6 +91,26 @@
       "bytes": 365289,
       "sha256": "29a8ffbbce4d9277c29ba09a0841f26c44076513387079a9e9e9bfdb36588312",
       "level": "intermediate"
+    },
+    {
+      "id": "stevenson-la-isla-del-tesoro",
+      "title": "La isla del tesoro",
+      "author": "Robert Louis Stevenson",
+      "level": "intermediate",
+      "file": "stevenson-la-isla-del-tesoro.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/stevenson-la-isla-del-tesoro.epub",
+      "bytes": 3104512,
+      "sha256": "ebb290028935029b14cba570d5713164f5911e8b36500d4b505ab608fcebe3c0"
+    },
+    {
+      "id": "kipling-el-libro-de-las-tierras-virgenes",
+      "title": "El libro de las tierras vírgenes",
+      "author": "Rudyard Kipling",
+      "level": "advanced",
+      "file": "kipling-el-libro-de-las-tierras-virgenes.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/kipling-el-libro-de-las-tierras-virgenes.epub",
+      "bytes": 6043012,
+      "sha256": "ea49b41eef910569beb6cae03de6c24e97097a4912637bb4a844cf10893760b2"
     }
   ]
 }
