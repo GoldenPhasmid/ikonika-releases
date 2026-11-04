@@ -1,10 +1,10 @@
-id	title	author	source	copyright_scope	edition	reader_checked
-perrault-el-gato-con-botas	El gato con botas	Charles Perrault	https://es.wikisource.org/w/index.php?title=El_gato_con_botas_(Bar%C3%B3_tr.)&oldid=1613853	US	1883 Spanish translation by Teodoro Baró y Sureda; Wikisource transcription attribution and CC BY-SA 4.0 retained in EPUB	2026-11-04
-coloma-raton-perez	Ratón Pérez	Luis Coloma	https://www.gutenberg.org/ebooks/36558	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
-wilkins-luria-lecturas-faciles-con-ejercicios	Lecturas fáciles con ejercicios	Lawrence A. Wilkins y Max A. Luria	https://www.gutenberg.org/ebooks/24250	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
-harrison-an-elementary-spanish-reader	Lecturas españolas elementales	Earl Stanley Harrison	https://www.gutenberg.org/ebooks/22065	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
-samaniego-fabulas	Fábulas	Félix María Samaniego	https://www.gutenberg.org/ebooks/55206	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
-iriarte-fabulas-literarias	Fábulas literarias	Tomás de Iriarte	https://www.gutenberg.org/ebooks/29497	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
-marti-la-edad-de-oro	La Edad de Oro	José Martí	https://www.gutenberg.org/ebooks/19898	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
-valera-cuentos-y-dialogos	Cuentos y diálogos	Juan Valera	https://www.gutenberg.org/ebooks/27214	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
-irving-cuentos-de-la-alhambra	Cuentos de la Alhambra	Washington Irving	https://www.gutenberg.org/ebooks/52262	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
+id	title	author	level	source	copyright_scope	edition	reader_checked
+perrault-el-gato-con-botas	El gato con botas	Charles Perrault	beginner	https://es.wikisource.org/w/index.php?title=El_gato_con_botas_(Bar%C3%B3_tr.)&oldid=1613853	US	1883 Spanish translation by Teodoro Baró y Sureda; Wikisource transcription attribution and CC BY-SA 4.0 retained in EPUB	2026-11-04
+coloma-raton-perez	Ratón Pérez	Luis Coloma	intermediate	https://www.gutenberg.org/ebooks/36558	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
+wilkins-luria-lecturas-faciles-con-ejercicios	Lecturas fáciles con ejercicios	Lawrence A. Wilkins y Max A. Luria	beginner	https://www.gutenberg.org/ebooks/24250	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
+harrison-an-elementary-spanish-reader	Lecturas españolas elementales	Earl Stanley Harrison	beginner	https://www.gutenberg.org/ebooks/22065	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
+samaniego-fabulas	Fábulas	Félix María Samaniego	intermediate	https://www.gutenberg.org/ebooks/55206	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
+iriarte-fabulas-literarias	Fábulas literarias	Tomás de Iriarte	intermediate	https://www.gutenberg.org/ebooks/29497	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
+marti-la-edad-de-oro	La Edad de Oro	José Martí	intermediate	https://www.gutenberg.org/ebooks/19898	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
+valera-cuentos-y-dialogos	Cuentos y diálogos	Juan Valera	intermediate	https://www.gutenberg.org/ebooks/27214	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04
+irving-cuentos-de-la-alhambra	Cuentos de la Alhambra	Washington Irving	intermediate	https://www.gutenberg.org/ebooks/52262	US	Project Gutenberg public-domain US edition; Gutenberg references removed	2026-11-04

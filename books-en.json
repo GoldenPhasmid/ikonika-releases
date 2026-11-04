@@ -9,7 +9,8 @@
       "file": "potter-the-tale-of-peter-rabbit.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/potter-the-tale-of-peter-rabbit.epub",
       "bytes": 1485644,
-      "sha256": "e065af8a8dd2ac7759b290097029adff8ff72725f88c95a2af5c61c21da3fd1e"
+      "sha256": "e065af8a8dd2ac7759b290097029adff8ff72725f88c95a2af5c61c21da3fd1e",
+      "level": "beginner"
     },
     {
       "id": "williams-the-velveteen-rabbit",
@@ -18,7 +19,8 @@
       "file": "williams-the-velveteen-rabbit.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/williams-the-velveteen-rabbit.epub",
       "bytes": 462999,
-      "sha256": "9d9618f71fb4e800da4a12a5205e41e9502f4060bfe787d61739440c6ca5cad5"
+      "sha256": "9d9618f71fb4e800da4a12a5205e41e9502f4060bfe787d61739440c6ca5cad5",
+      "level": "beginner"
     },
     {
       "id": "wilde-the-happy-prince-and-other-tales",
@@ -27,7 +29,8 @@
       "file": "wilde-the-happy-prince-and-other-tales.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/wilde-the-happy-prince-and-other-tales.epub",
       "bytes": 4420615,
-      "sha256": "08514d6a1c4364688e8359c586f7152b34e6818f7f2cd28c1c523ceecba3041b"
+      "sha256": "08514d6a1c4364688e8359c586f7152b34e6818f7f2cd28c1c523ceecba3041b",
+      "level": "beginner"
     },
     {
       "id": "baum-the-wonderful-wizard-of-oz",
@@ -36,7 +39,8 @@
       "file": "baum-the-wonderful-wizard-of-oz.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/baum-the-wonderful-wizard-of-oz.epub",
       "bytes": 340520,
-      "sha256": "d3e633a72c496ffbf7a272a1179aba08d2297be1d916b0bdbbba24531fa6da35"
+      "sha256": "d3e633a72c496ffbf7a272a1179aba08d2297be1d916b0bdbbba24531fa6da35",
+      "level": "beginner"
     },
     {
       "id": "sewell-black-beauty",
@@ -45,7 +49,8 @@
       "file": "sewell-black-beauty.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/sewell-black-beauty.epub",
       "bytes": 382196,
-      "sha256": "1b9daf28a6ce62e3069397571b078c1f2437bc930211077f02f1a8805a3c1f6d"
+      "sha256": "1b9daf28a6ce62e3069397571b078c1f2437bc930211077f02f1a8805a3c1f6d",
+      "level": "beginner"
     },
     {
       "id": "carroll-alices-adventures-in-wonderland",
@@ -54,7 +59,8 @@
       "file": "carroll-alices-adventures-in-wonderland.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/carroll-alices-adventures-in-wonderland.epub",
       "bytes": 177891,
-      "sha256": "6632220e262446271dae9a11bac262f154726ca3873eeac5c9db1f45fa1725c1"
+      "sha256": "6632220e262446271dae9a11bac262f154726ca3873eeac5c9db1f45fa1725c1",
+      "level": "intermediate"
     },
     {
       "id": "burnett-the-secret-garden",
@@ -63,7 +69,8 @@
       "file": "burnett-the-secret-garden.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/burnett-the-secret-garden.epub",
       "bytes": 203356,
-      "sha256": "5fa42da879af34b6330f38c5698be0c011a2310349b45da1f06c3219927fb401"
+      "sha256": "5fa42da879af34b6330f38c5698be0c011a2310349b45da1f06c3219927fb401",
+      "level": "intermediate"
     },
     {
       "id": "kipling-the-jungle-book",
@@ -72,7 +79,8 @@
       "file": "kipling-the-jungle-book.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/kipling-the-jungle-book.epub",
       "bytes": 172820,
-      "sha256": "0c7b4681eb63fc3fb45aefe5314108c0bcad4682e98e1a5ccba5aa076a522134"
+      "sha256": "0c7b4681eb63fc3fb45aefe5314108c0bcad4682e98e1a5ccba5aa076a522134",
+      "level": "intermediate"
     },
     {
       "id": "stevenson-the-strange-case-of-dr-jekyll-and-mr-hyde",
@@ -81,7 +89,8 @@
       "file": "stevenson-the-strange-case-of-dr-jekyll-and-mr-hyde.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/stevenson-the-strange-case-of-dr-jekyll-and-mr-hyde.epub",
       "bytes": 294378,
-      "sha256": "0124092f4ee7201fd0c7be366a2dff957d09357c92421b961c7ce91cf3ef4c16"
+      "sha256": "0124092f4ee7201fd0c7be366a2dff957d09357c92421b961c7ce91cf3ef4c16",
+      "level": "intermediate"
     },
     {
       "id": "doyle-the-adventures-of-sherlock-holmes",
@@ -90,7 +99,8 @@
       "file": "doyle-the-adventures-of-sherlock-holmes.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/doyle-the-adventures-of-sherlock-holmes.epub",
       "bytes": 371824,
-      "sha256": "0ca5bbe9ddc18a69716054148734357a41beed82a54d6ee5f2ff25e26fdc7995"
+      "sha256": "0ca5bbe9ddc18a69716054148734357a41beed82a54d6ee5f2ff25e26fdc7995",
+      "level": "intermediate"
     },
     {
       "id": "bronte-jane-eyre",
@@ -99,7 +109,8 @@
       "file": "bronte-jane-eyre.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/bronte-jane-eyre.epub",
       "bytes": 3070859,
-      "sha256": "a9f3810b4bddc7c52306f288762b9f56e4e5ec33c9a5b653b675334583dfc9ac"
+      "sha256": "a9f3810b4bddc7c52306f288762b9f56e4e5ec33c9a5b653b675334583dfc9ac",
+      "level": "advanced"
     },
     {
       "id": "poe-the-fall-of-the-house-of-usher",
@@ -108,7 +119,8 @@
       "file": "poe-the-fall-of-the-house-of-usher.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/poe-the-fall-of-the-house-of-usher.epub",
       "bytes": 157308,
-      "sha256": "ff4bb7fc1a81041bdedd6dba31c737da4e19193fde48868db706db17e24755a3"
+      "sha256": "ff4bb7fc1a81041bdedd6dba31c737da4e19193fde48868db706db17e24755a3",
+      "level": "advanced"
     },
     {
       "id": "leroux-the-phantom-of-the-opera",
@@ -117,7 +129,8 @@
       "file": "leroux-the-phantom-of-the-opera.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/leroux-the-phantom-of-the-opera.epub",
       "bytes": 443696,
-      "sha256": "8f38a9d20295958b9699c3c67e042e25c8007ef80dd3fcec7a2e3b9890b20741"
+      "sha256": "8f38a9d20295958b9699c3c67e042e25c8007ef80dd3fcec7a2e3b9890b20741",
+      "level": "intermediate"
     },
     {
       "id": "northup-twelve-years-a-slave",
@@ -126,7 +139,8 @@
       "file": "northup-twelve-years-a-slave.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/northup-twelve-years-a-slave.epub",
       "bytes": 853815,
-      "sha256": "a4b4aae5fac5f6f8e675501f214d566bedfbbcb4583399f4b4789b49bf5abb83"
+      "sha256": "a4b4aae5fac5f6f8e675501f214d566bedfbbcb4583399f4b4789b49bf5abb83",
+      "level": "advanced"
     },
     {
       "id": "twain-the-adventures-of-tom-sawyer",
@@ -135,7 +149,8 @@
       "file": "twain-the-adventures-of-tom-sawyer.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/twain-the-adventures-of-tom-sawyer.epub",
       "bytes": 16630158,
-      "sha256": "44199c70697059d15685742fe1bb6ef9746aed608b4f8b707342a42a757b4b69"
+      "sha256": "44199c70697059d15685742fe1bb6ef9746aed608b4f8b707342a42a757b4b69",
+      "level": "intermediate"
     },
     {
       "id": "bronte-wuthering-heights",
@@ -144,7 +159,8 @@
       "file": "bronte-wuthering-heights.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/bronte-wuthering-heights.epub",
       "bytes": 521006,
-      "sha256": "24b45d648bf29858adf1ef6257d7d0dc3f2ca189c681071d56998ba6e3d16850"
+      "sha256": "24b45d648bf29858adf1ef6257d7d0dc3f2ca189c681071d56998ba6e3d16850",
+      "level": "advanced"
     },
     {
       "id": "london-white-fang",
@@ -153,7 +169,8 @@
       "file": "london-white-fang.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/london-white-fang.epub",
       "bytes": 416837,
-      "sha256": "76380d900ac9ffe22248da81e57fc32a9eb553bdca9cf0dabe060c9879d125fc"
+      "sha256": "76380d900ac9ffe22248da81e57fc32a9eb553bdca9cf0dabe060c9879d125fc",
+      "level": "intermediate"
     },
     {
       "id": "alcott-little-women",
@@ -162,7 +179,8 @@
       "file": "alcott-little-women.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/alcott-little-women.epub",
       "bytes": 729398,
-      "sha256": "e256275b45f686d553c2a6b8885dd188277520dab931140bb0433d4a9c30320f"
+      "sha256": "e256275b45f686d553c2a6b8885dd188277520dab931140bb0433d4a9c30320f",
+      "level": "intermediate"
     },
     {
       "id": "christie-the-secret-of-chimneys",
@@ -171,7 +189,8 @@
       "file": "christie-the-secret-of-chimneys.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/christie-the-secret-of-chimneys.epub",
       "bytes": 465210,
-      "sha256": "cb6091b91320982af7ae1fdcceac698b3f3022ab58574064d61da97d3287bb1c"
+      "sha256": "cb6091b91320982af7ae1fdcceac698b3f3022ab58574064d61da97d3287bb1c",
+      "level": "intermediate"
     }
   ]
 }

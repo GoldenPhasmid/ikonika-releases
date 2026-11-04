@@ -9,7 +9,8 @@
       "file": "segur-les-malheurs-de-sophie.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/segur-les-malheurs-de-sophie.epub",
       "bytes": 83402,
-      "sha256": "fbd8da0e895a139946efd432e58f87f4be71d9cbddb7ff900188fbe19d681b67"
+      "sha256": "fbd8da0e895a139946efd432e58f87f4be71d9cbddb7ff900188fbe19d681b67",
+      "level": "beginner"
     },
     {
       "id": "segur-les-memoires-d-un-ane",
@@ -18,7 +19,8 @@
       "file": "segur-les-memoires-d-un-ane.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/segur-les-memoires-d-un-ane.epub",
       "bytes": 124977,
-      "sha256": "162f6b62bc51d3b84be76cf08b3b0472158bdc86b1541e280005bee115f0e21b"
+      "sha256": "162f6b62bc51d3b84be76cf08b3b0472158bdc86b1541e280005bee115f0e21b",
+      "level": "beginner"
     },
     {
       "id": "segur-les-petites-filles-modeles",
@@ -27,7 +29,8 @@
       "file": "segur-les-petites-filles-modeles.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/segur-les-petites-filles-modeles.epub",
       "bytes": 127707,
-      "sha256": "42ef1e4eadf065a2b4455c7e1c2fe865e878a6c55b7f2bb52dbb244f746a48b8"
+      "sha256": "42ef1e4eadf065a2b4455c7e1c2fe865e878a6c55b7f2bb52dbb244f746a48b8",
+      "level": "beginner"
     },
     {
       "id": "daudet-le-petit-chose",
@@ -36,7 +39,8 @@
       "file": "daudet-le-petit-chose.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/daudet-le-petit-chose.epub",
       "bytes": 207546,
-      "sha256": "db6f5821c554160803eb4b0b92d5a0f07f7bde13cdbdea2680b6d4638d1b49b5"
+      "sha256": "db6f5821c554160803eb4b0b92d5a0f07f7bde13cdbdea2680b6d4638d1b49b5",
+      "level": "intermediate"
     },
     {
       "id": "leblanc-arsene-lupin-gentleman-cambrioleur",
@@ -45,7 +49,8 @@
       "file": "leblanc-arsene-lupin-gentleman-cambrioleur.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/leblanc-arsene-lupin-gentleman-cambrioleur.epub",
       "bytes": 146675,
-      "sha256": "7bf40eaca046e241ab18c97eefa57c6cf41cae03cc4f4e79ab6423f8c27241d8"
+      "sha256": "7bf40eaca046e241ab18c97eefa57c6cf41cae03cc4f4e79ab6423f8c27241d8",
+      "level": "intermediate"
     },
     {
       "id": "leroux-le-mystere-de-la-chambre-jaune",
@@ -54,7 +59,8 @@
       "file": "leroux-le-mystere-de-la-chambre-jaune.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/leroux-le-mystere-de-la-chambre-jaune.epub",
       "bytes": 277020,
-      "sha256": "9a3d63cb5583629fd2d56531e75a16bc9e92abd68b0e051164ee1893c9127f82"
+      "sha256": "9a3d63cb5583629fd2d56531e75a16bc9e92abd68b0e051164ee1893c9127f82",
+      "level": "intermediate"
     },
     {
       "id": "maupassant-contes-du-jour-et-de-la-nuit",
@@ -63,7 +69,8 @@
       "file": "maupassant-contes-du-jour-et-de-la-nuit.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/maupassant-contes-du-jour-et-de-la-nuit.epub",
       "bytes": 1840037,
-      "sha256": "a5c48a0c2fdb0e86e2fbce3c5defdf68b027880b7d0b613834c1d5f2a28830a7"
+      "sha256": "a5c48a0c2fdb0e86e2fbce3c5defdf68b027880b7d0b613834c1d5f2a28830a7",
+      "level": "advanced"
     },
     {
       "id": "merimee-colomba",
@@ -72,7 +79,8 @@
       "file": "merimee-colomba.epub",
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/merimee-colomba.epub",
       "bytes": 119890,
-      "sha256": "4e2ead8752d67fce7a8e1c45a12f1b5ed5c8f50d16d3064fb27898b574baadf4"
+      "sha256": "4e2ead8752d67fce7a8e1c45a12f1b5ed5c8f50d16d3064fb27898b574baadf4",
+      "level": "advanced"
     }
   ]
 }
