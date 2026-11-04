@@ -91,6 +91,87 @@
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/doyle-the-adventures-of-sherlock-holmes.epub",
       "bytes": 371824,
       "sha256": "0ca5bbe9ddc18a69716054148734357a41beed82a54d6ee5f2ff25e26fdc7995"
+    },
+    {
+      "id": "bronte-jane-eyre",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "file": "bronte-jane-eyre.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/bronte-jane-eyre.epub",
+      "bytes": 3070859,
+      "sha256": "a9f3810b4bddc7c52306f288762b9f56e4e5ec33c9a5b653b675334583dfc9ac"
+    },
+    {
+      "id": "poe-the-fall-of-the-house-of-usher",
+      "title": "The Fall of the House of Usher",
+      "author": "Edgar Allan Poe",
+      "file": "poe-the-fall-of-the-house-of-usher.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/poe-the-fall-of-the-house-of-usher.epub",
+      "bytes": 157308,
+      "sha256": "ff4bb7fc1a81041bdedd6dba31c737da4e19193fde48868db706db17e24755a3"
+    },
+    {
+      "id": "leroux-the-phantom-of-the-opera",
+      "title": "The Phantom of the Opera",
+      "author": "Gaston Leroux",
+      "file": "leroux-the-phantom-of-the-opera.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/leroux-the-phantom-of-the-opera.epub",
+      "bytes": 443696,
+      "sha256": "8f38a9d20295958b9699c3c67e042e25c8007ef80dd3fcec7a2e3b9890b20741"
+    },
+    {
+      "id": "northup-twelve-years-a-slave",
+      "title": "Twelve Years a Slave",
+      "author": "Solomon Northup",
+      "file": "northup-twelve-years-a-slave.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/northup-twelve-years-a-slave.epub",
+      "bytes": 853815,
+      "sha256": "a4b4aae5fac5f6f8e675501f214d566bedfbbcb4583399f4b4789b49bf5abb83"
+    },
+    {
+      "id": "twain-the-adventures-of-tom-sawyer",
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "file": "twain-the-adventures-of-tom-sawyer.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/twain-the-adventures-of-tom-sawyer.epub",
+      "bytes": 16630158,
+      "sha256": "44199c70697059d15685742fe1bb6ef9746aed608b4f8b707342a42a757b4b69"
+    },
+    {
+      "id": "bronte-wuthering-heights",
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "file": "bronte-wuthering-heights.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/bronte-wuthering-heights.epub",
+      "bytes": 521006,
+      "sha256": "24b45d648bf29858adf1ef6257d7d0dc3f2ca189c681071d56998ba6e3d16850"
+    },
+    {
+      "id": "london-white-fang",
+      "title": "White Fang",
+      "author": "Jack London",
+      "file": "london-white-fang.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/london-white-fang.epub",
+      "bytes": 416837,
+      "sha256": "76380d900ac9ffe22248da81e57fc32a9eb553bdca9cf0dabe060c9879d125fc"
+    },
+    {
+      "id": "alcott-little-women",
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "file": "alcott-little-women.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/alcott-little-women.epub",
+      "bytes": 729398,
+      "sha256": "e256275b45f686d553c2a6b8885dd188277520dab931140bb0433d4a9c30320f"
+    },
+    {
+      "id": "christie-the-secret-of-chimneys",
+      "title": "The Secret of Chimneys",
+      "author": "Agatha Christie",
+      "file": "christie-the-secret-of-chimneys.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/christie-the-secret-of-chimneys.epub",
+      "bytes": 465210,
+      "sha256": "cb6091b91320982af7ae1fdcceac698b3f3022ab58574064d61da97d3287bb1c"
     }
   ]
 }

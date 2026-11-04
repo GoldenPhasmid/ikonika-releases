@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "target": "es",
+  "books": [
+    {
+      "id": "harrison-an-elementary-spanish-reader",
+      "title": "Lecturas españolas elementales",
+      "author": "Earl Stanley Harrison",
+      "file": "harrison-an-elementary-spanish-reader.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/harrison-an-elementary-spanish-reader.epub",
+      "bytes": 1130775,
+      "sha256": "7d4667aabef72165dd7438261327d92645e449f923c049d34eea52e3d42b9505"
+    },
+    {
+      "id": "wilkins-luria-lecturas-faciles-con-ejercicios",
+      "title": "Lecturas fáciles con ejercicios",
+      "author": "Lawrence A. Wilkins y Max A. Luria",
+      "file": "wilkins-luria-lecturas-faciles-con-ejercicios.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/wilkins-luria-lecturas-faciles-con-ejercicios.epub",
+      "bytes": 3664303,
+      "sha256": "18f6fb82e8ffce28affe5dbc7e7de5c6f1566b85fbfee357fce5801fa541b182"
+    },
+    {
+      "id": "perrault-el-gato-con-botas",
+      "title": "El gato con botas",
+      "author": "Charles Perrault",
+      "file": "perrault-el-gato-con-botas.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/perrault-el-gato-con-botas.epub",
+      "bytes": 6773,
+      "sha256": "4c6225585fa1083004096ac3ecc8845d695b70b4a2341aeafca5a22aa1908926"
+    },
+    {
+      "id": "coloma-raton-perez",
+      "title": "Ratón Pérez",
+      "author": "Luis Coloma",
+      "file": "coloma-raton-perez.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/coloma-raton-perez.epub",
+      "bytes": 479481,
+      "sha256": "2fe322541b06bfb44e71cc354da26808eef266edcfbe75aa81db37436fce4fba"
+    },
+    {
+      "id": "marti-la-edad-de-oro",
+      "title": "La Edad de Oro",
+      "author": "José Martí",
+      "file": "marti-la-edad-de-oro.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/marti-la-edad-de-oro.epub",
+      "bytes": 349429,
+      "sha256": "d4b24a2151c8df4fc18a89104456cce58a5177473ebf303874bbdc63d195776c"
+    },
+    {
+      "id": "iriarte-fabulas-literarias",
+      "title": "Fábulas literarias",
+      "author": "Tomás de Iriarte",
+      "file": "iriarte-fabulas-literarias.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/iriarte-fabulas-literarias.epub",
+      "bytes": 61696,
+      "sha256": "ed574796efb6aac252425780973e4fae65d08e09c6007b052a1634f8b8a8648a"
+    },
+    {
+      "id": "samaniego-fabulas",
+      "title": "Fábulas",
+      "author": "Félix María Samaniego",
+      "file": "samaniego-fabulas.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/samaniego-fabulas.epub",
+      "bytes": 24729951,
+      "sha256": "f546205ca91a01158d5c9bb506c740ebf51dfb96060754205e7b3dedc3a67498"
+    },
+    {
+      "id": "valera-cuentos-y-dialogos",
+      "title": "Cuentos y diálogos",
+      "author": "Juan Valera",
+      "file": "valera-cuentos-y-dialogos.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/valera-cuentos-y-dialogos.epub",
+      "bytes": 101150,
+      "sha256": "bf463b24c964d393f4a50b8ed16f200e10784496861d1c64ce99a8954be18f37"
+    },
+    {
+      "id": "irving-cuentos-de-la-alhambra",
+      "title": "Cuentos de la Alhambra",
+      "author": "Washington Irving",
+      "file": "irving-cuentos-de-la-alhambra.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/irving-cuentos-de-la-alhambra.epub",
+      "bytes": 365289,
+      "sha256": "29a8ffbbce4d9277c29ba09a0841f26c44076513387079a9e9e9bfdb36588312"
+    }
+  ]
+}
