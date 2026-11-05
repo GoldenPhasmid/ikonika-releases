@@ -239,6 +239,20 @@
       "unpackedBytes": 249512906,
       "sha256": "0e6775d29cd55b6d59c20bcd71576ceffcb9a261c1152a7ab8a829f161c22bcd",
       "desktopOnly": true
+    },
+    {
+      "id": "opus-mt-it-en",
+      "kind": "translation",
+      "target": "it",
+      "natives": ["en"],
+      "version": 1,
+      "file": "opus-mt-it-en.zip",
+      "unpackTo": "opus-mt-it-en",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/translation-opus-mt-it-en-1/opus-mt-it-en.zip",
+      "bytes": 71619833,
+      "unpackedBytes": 132682006,
+      "sha256": "861cad292f0ee197065fdd08f2940466455b1bc8cdb047cb25a2bd15640538ad",
+      "desktopOnly": true
     }
   ],
   "webSearch": [
