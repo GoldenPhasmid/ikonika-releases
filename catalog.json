@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "app": {
-    "version": "0.7.3",
-    "file": "Ikonika-Setup-0.7.3.exe",
-    "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/app-0.7.3/Ikonika-Setup-0.7.3.exe",
-    "bytes": 43853561,
-    "sha256": "3932d4922d10e263007d76b6ca828b184c184ec86a4b7e5007b8588b00ae607f",
+    "version": "0.8.0",
+    "file": "Ikonika-Setup-0.8.0.exe",
+    "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/app-0.8.0/Ikonika-Setup-0.8.0.exe",
+    "bytes": 44092909,
+    "sha256": "0accc923fc5449a523e474ba484646d7ed99b1904a1ffa311882fc8c3877c80d",
     "silentArguments": ["/VERYSILENT"]
   },
   "packages": [
