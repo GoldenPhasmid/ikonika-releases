@@ -126,14 +126,14 @@
       "kind": "dictionary",
       "target": "it",
       "natives": ["en"],
-      "version": 1,
+      "version": 2,
       "dictionarySchema": 11,
       "file": "it-dictionary.zip",
       "unpackTo": ".",
-      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/dictionary-it-1/it-dictionary.zip",
-      "bytes": 57834289,
-      "unpackedBytes": 149696512,
-      "sha256": "31e8e8d28e4882754598cd250b5102525fcc5a37879726d5087af86b0ca6c911"
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/dictionary-it-2/it-dictionary.zip",
+      "bytes": 66753316,
+      "unpackedBytes": 172601344,
+      "sha256": "922c15d419bc3f41326fd5961be49c4eb7daedd691716b34f08e3ec99644393e"
     },
     {
       "id": "supertonic-3",
