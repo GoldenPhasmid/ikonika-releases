@@ -1,0 +1,306 @@
+{
+  "schema": 1,
+  "target": "it",
+  "books": [
+    {
+      "id": "baccini-lezioni-e-racconti-per-i-bambini",
+      "title": "Lezioni e racconti per i bambini",
+      "author": "Ida Baccini",
+      "level": "beginner",
+      "file": "baccini-lezioni-e-racconti-per-i-bambini.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/baccini-lezioni-e-racconti-per-i-bambini.epub",
+      "bytes": 2242833,
+      "sha256": "419c50164adca1c0e229d3e56091571511bc8c5ef54001a3239c59f2285915ee"
+    },
+    {
+      "id": "thouar-racconti-per-giovinetti",
+      "title": "Racconti per giovinetti",
+      "author": "Pietro Thouar",
+      "level": "beginner",
+      "file": "thouar-racconti-per-giovinetti.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/thouar-racconti-per-giovinetti.epub",
+      "bytes": 739189,
+      "sha256": "c2417dfbd15dafbf06e0e115e5423049a044cea27655c106686ebc070fd3c70e"
+    },
+    {
+      "id": "collodi-le-avventure-di-pinocchio",
+      "title": "Le avventure di Pinocchio",
+      "author": "Carlo Collodi",
+      "level": "beginner",
+      "file": "collodi-le-avventure-di-pinocchio.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/collodi-le-avventure-di-pinocchio.epub",
+      "bytes": 2985150,
+      "sha256": "5bd380a8124cfccc4a9d7cc9d551770cfc6b7055c36701eb4271c16b164ceb1c"
+    },
+    {
+      "id": "colombi-la-cartella-n-4",
+      "title": "La cartella N. 4",
+      "author": "Marchesa Colombi",
+      "level": "beginner",
+      "file": "colombi-la-cartella-n-4.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/colombi-la-cartella-n-4.epub",
+      "bytes": 199704,
+      "sha256": "908ada2eb9ac0be04227552c28d10a0b3e04000344b59418e3cc9c7d9c3cecdf"
+    },
+    {
+      "id": "de-amicis-cuore",
+      "title": "Cuore",
+      "author": "Edmondo De Amicis",
+      "level": "beginner",
+      "file": "de-amicis-cuore.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/de-amicis-cuore.epub",
+      "bytes": 513387,
+      "sha256": "b1209e9169bafc9eabf2fcb4c24bd858e6cc9ee12618b326e4ac4ea22b78dc1f"
+    },
+    {
+      "id": "capuana-c-era-una-volta-fiabe",
+      "title": "C'era una volta... Fiabe",
+      "author": "Luigi Capuana",
+      "level": "beginner",
+      "file": "capuana-c-era-una-volta-fiabe.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/capuana-c-era-una-volta-fiabe.epub",
+      "bytes": 3677025,
+      "sha256": "af17cb1bc640c8243e88f51edf166f149a03ad1735695c54cae6e74ad3e0b56f"
+    },
+    {
+      "id": "goldoni-la-locandiera",
+      "title": "La locandiera",
+      "author": "Carlo Goldoni",
+      "level": "intermediate",
+      "file": "goldoni-la-locandiera.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/goldoni-la-locandiera.epub",
+      "bytes": 642496,
+      "sha256": "5d87ffa59301b4f21c04bdc15053062c1cf88d493ad002e5b8dbe688d2400e2f"
+    },
+    {
+      "id": "de-amicis-novelle",
+      "title": "Novelle",
+      "author": "Edmondo De Amicis",
+      "level": "intermediate",
+      "file": "de-amicis-novelle.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/de-amicis-novelle.epub",
+      "bytes": 891293,
+      "sha256": "43d923df9ffa97d74cf9f2e0a6012a01ae1ddd3f01c115a549afba96c4d33de8"
+    },
+    {
+      "id": "pellico-le-mie-prigioni",
+      "title": "Le mie prigioni",
+      "author": "Silvio Pellico",
+      "level": "intermediate",
+      "file": "pellico-le-mie-prigioni.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/pellico-le-mie-prigioni.epub",
+      "bytes": 520893,
+      "sha256": "06bd6dcd4baa61a988b2a5604480add00e8d02596310cffc7760f60da762b3b8"
+    },
+    {
+      "id": "serao-cristina",
+      "title": "Cristina",
+      "author": "Matilde Serao",
+      "level": "intermediate",
+      "file": "serao-cristina.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/serao-cristina.epub",
+      "bytes": 371260,
+      "sha256": "aa9eca487c7440f69d6a7b4c50a539e8b15848dc0510ae44ee70e4df40872dee"
+    },
+    {
+      "id": "capuana-il-benefattore",
+      "title": "Il Benefattore",
+      "author": "Luigi Capuana",
+      "level": "intermediate",
+      "file": "capuana-il-benefattore.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/capuana-il-benefattore.epub",
+      "bytes": 96845,
+      "sha256": "a5bee58d3046a0e0ca4605652288e738460433d14f2f117de88594e7afdcf77f"
+    },
+    {
+      "id": "salgari-le-aquile-della-steppa",
+      "title": "Le Aquile della Steppa",
+      "author": "Emilio Salgari",
+      "level": "intermediate",
+      "file": "salgari-le-aquile-della-steppa.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/salgari-le-aquile-della-steppa.epub",
+      "bytes": 312554,
+      "sha256": "789ba610105987e388ca7dc0a7c58785e87857885cca166658a83bb1f8e46647"
+    },
+    {
+      "id": "foscolo-ultime-lettere-di-jacopo-ortis",
+      "title": "Ultime lettere di Jacopo Ortis",
+      "author": "Ugo Foscolo",
+      "level": "intermediate",
+      "file": "foscolo-ultime-lettere-di-jacopo-ortis.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/foscolo-ultime-lettere-di-jacopo-ortis.epub",
+      "bytes": 161409,
+      "sha256": "cc3940ff8c18d0352803899b281366f3aa15b5650e0332d07cbdfc509662bfa8"
+    },
+    {
+      "id": "deledda-canne-al-vento",
+      "title": "Canne al vento",
+      "author": "Grazia Deledda",
+      "level": "intermediate",
+      "file": "deledda-canne-al-vento.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/deledda-canne-al-vento.epub",
+      "bytes": 223018,
+      "sha256": "287ceaa2e116580b3311332f08f00600c952ddf1afce43d71e177d054fd42683"
+    },
+    {
+      "id": "pirandello-il-fu-mattia-pascal",
+      "title": "Il fu Mattia Pascal",
+      "author": "Luigi Pirandello",
+      "level": "intermediate",
+      "file": "pirandello-il-fu-mattia-pascal.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/pirandello-il-fu-mattia-pascal.epub",
+      "bytes": 273668,
+      "sha256": "01e4cae433c18d86f3e00340410950be9139c7bf9d6537d954530e8e4d254a46"
+    },
+    {
+      "id": "fogazzaro-piccolo-mondo-antico",
+      "title": "Piccolo mondo antico",
+      "author": "Antonio Fogazzaro",
+      "level": "intermediate",
+      "file": "fogazzaro-piccolo-mondo-antico.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/fogazzaro-piccolo-mondo-antico.epub",
+      "bytes": 1286320,
+      "sha256": "872b60850475fc389b5403fcc69e53741a9339146f4885cfdc7645cc7a0cbbe0"
+    },
+    {
+      "id": "verga-i-malavoglia",
+      "title": "I Malavoglia",
+      "author": "Giovanni Verga",
+      "level": "intermediate",
+      "file": "verga-i-malavoglia.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/verga-i-malavoglia.epub",
+      "bytes": 272292,
+      "sha256": "0b543b1599ce7537e5fd3668c16f10075adb56b5e5fae080ed61b7c9adc50dad"
+    },
+    {
+      "id": "verga-vita-dei-campi",
+      "title": "Vita dei campi",
+      "author": "Giovanni Verga",
+      "level": "intermediate",
+      "file": "verga-vita-dei-campi.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/verga-vita-dei-campi.epub",
+      "bytes": 135551,
+      "sha256": "b0cdb2ffb183d69b41f2a4089a196e75bc1f3250037f68cc957c43bf07e7c068"
+    },
+    {
+      "id": "tarchetti-racconti-fantastici",
+      "title": "Racconti fantastici",
+      "author": "Iginio Ugo Tarchetti",
+      "level": "intermediate",
+      "file": "tarchetti-racconti-fantastici.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/tarchetti-racconti-fantastici.epub",
+      "bytes": 89878,
+      "sha256": "282a1f6761d9aca24b8725c363bec3221a995434607691dc48cf3c9b6d8a6ee9"
+    },
+    {
+      "id": "d-annunzio-le-novelle-della-pescara",
+      "title": "Le Novelle della Pescara",
+      "author": "Gabriele D'Annunzio",
+      "level": "intermediate",
+      "file": "d-annunzio-le-novelle-della-pescara.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/d-annunzio-le-novelle-della-pescara.epub",
+      "bytes": 336911,
+      "sha256": "d775569393de681691f02322373721abb921a77646067531241e961173f5585f"
+    },
+    {
+      "id": "de-roberto-l-illusione",
+      "title": "L'Illusione",
+      "author": "Federico De Roberto",
+      "level": "intermediate",
+      "file": "de-roberto-l-illusione.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/de-roberto-l-illusione.epub",
+      "bytes": 444863,
+      "sha256": "f0b4874fac6801a73c2b13451a15f696eeb11842a9e98faaac7ac0acfaeaa025"
+    },
+    {
+      "id": "manzoni-i-promessi-sposi",
+      "title": "I promessi sposi",
+      "author": "Alessandro Manzoni",
+      "level": "advanced",
+      "file": "manzoni-i-promessi-sposi.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/manzoni-i-promessi-sposi.epub",
+      "bytes": 2206228,
+      "sha256": "94d68bb30c83e738617621ae6a10622734ce46fe0f091cc564415f6c6e9f7894"
+    },
+    {
+      "id": "boccaccio-decameron",
+      "title": "Decameron",
+      "author": "Giovanni Boccaccio",
+      "level": "advanced",
+      "file": "boccaccio-decameron.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/boccaccio-decameron.epub",
+      "bytes": 1163264,
+      "sha256": "0b75be469b3b27870eca5cec4d42df3eff5a93435fa3b6fdcd2569064dc02697"
+    },
+    {
+      "id": "machiavelli-il-principe",
+      "title": "Il Principe",
+      "author": "Niccolò Machiavelli",
+      "level": "advanced",
+      "file": "machiavelli-il-principe.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/machiavelli-il-principe.epub",
+      "bytes": 159983,
+      "sha256": "f360598390f2adbe786fdc1a0c26ac70abd1e43c1c6de2d60aef6a973679a3bf"
+    },
+    {
+      "id": "nievo-le-confessioni-di-un-ottuagenario",
+      "title": "Le confessioni di un ottuagenario",
+      "author": "Ippolito Nievo",
+      "level": "advanced",
+      "file": "nievo-le-confessioni-di-un-ottuagenario.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/nievo-le-confessioni-di-un-ottuagenario.epub",
+      "bytes": 959726,
+      "sha256": "12a5dedfde47afa1d003473de40e221276e4d943c2ad5f9ba3e303f83e997b32"
+    },
+    {
+      "id": "svevo-la-coscienza-di-zeno",
+      "title": "La coscienza di Zeno",
+      "author": "Italo Svevo",
+      "level": "advanced",
+      "file": "svevo-la-coscienza-di-zeno.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/svevo-la-coscienza-di-zeno.epub",
+      "bytes": 358517,
+      "sha256": "4cc6b0c6030fcff31833a78ed3b5c22a3d3430a076da991c885b24318b7db839"
+    },
+    {
+      "id": "d-annunzio-l-innocente",
+      "title": "L'Innocente",
+      "author": "Gabriele D'Annunzio",
+      "level": "advanced",
+      "file": "d-annunzio-l-innocente.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/d-annunzio-l-innocente.epub",
+      "bytes": 229188,
+      "sha256": "622edf320a1279b632926771fa323ee7263ad17aca769f23dfd93a11f9b4548d"
+    },
+    {
+      "id": "leopardi-i-canti",
+      "title": "I Canti",
+      "author": "Giacomo Leopardi",
+      "level": "advanced",
+      "file": "leopardi-i-canti.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/leopardi-i-canti.epub",
+      "bytes": 255417,
+      "sha256": "9a48c362e747c6a0d72663633507a272a00282b1ee9cdfb23116d6d06b92c039"
+    },
+    {
+      "id": "ariosto-orlando-furioso",
+      "title": "Orlando furioso",
+      "author": "Ludovico Ariosto",
+      "level": "advanced",
+      "file": "ariosto-orlando-furioso.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/ariosto-orlando-furioso.epub",
+      "bytes": 844569,
+      "sha256": "7e7ca1bb53db36ecd4943170ce59ee91d84b0ecc5154650db7987dfa98deb62b"
+    },
+    {
+      "id": "dante-la-divina-commedia",
+      "title": "La Divina Commedia",
+      "author": "Dante Alighieri",
+      "level": "advanced",
+      "file": "dante-la-divina-commedia.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-it/dante-la-divina-commedia.epub",
+      "bytes": 343460,
+      "sha256": "f7ebc9cfb5be694dc39d3fd7de65cbfa97374f840226dd2cbd5d759d410ed4fe"
+    }
+  ]
+}

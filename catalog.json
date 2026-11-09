@@ -278,6 +278,7 @@
   "books": {
     "en": "https://raw.githubusercontent.com/GoldenPhasmid/ikonika-releases/main/books-en.json",
     "fr": "https://raw.githubusercontent.com/GoldenPhasmid/ikonika-releases/main/books-fr.json",
-    "es": "https://raw.githubusercontent.com/GoldenPhasmid/ikonika-releases/main/books-es.json"
+    "es": "https://raw.githubusercontent.com/GoldenPhasmid/ikonika-releases/main/books-es.json",
+    "it": "https://raw.githubusercontent.com/GoldenPhasmid/ikonika-releases/main/books-it.json"
   }
 }
