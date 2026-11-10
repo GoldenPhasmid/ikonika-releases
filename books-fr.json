@@ -3,6 +3,106 @@
   "target": "fr",
   "books": [
     {
+      "id": "storybookscanada-j-aime-lire",
+      "title": "J’aime lire",
+      "author": "Letta Machoga",
+      "file": "storybookscanada-j-aime-lire.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/storybookscanada-j-aime-lire.epub",
+      "bytes": 227924,
+      "sha256": "d0c2cf6a8127bcd33e3ab1fcf294b9a456b7c3d10a15309390771dc66e877c3c",
+      "level": "beginner"
+    },
+    {
+      "id": "storybookscanada-compter-les-animaux",
+      "title": "Compter les animaux",
+      "author": "Zanele Buthelezi, Thembani Dladla, Clare Verbeek",
+      "file": "storybookscanada-compter-les-animaux.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/storybookscanada-compter-les-animaux.epub",
+      "bytes": 266997,
+      "sha256": "23cee1ba569a13c3830c28066f9ae7ab3667a33bc175d947c2b1130b8cdbb436",
+      "level": "beginner"
+    },
+    {
+      "id": "storybookscanada-le-feu",
+      "title": "Le feu",
+      "author": "Deborah Namugosa, Beatrice Nabune, Alison Tukei, Rose Sabano",
+      "file": "storybookscanada-le-feu.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/storybookscanada-le-feu.epub",
+      "bytes": 602780,
+      "sha256": "d9042b61792079c72d91838b52386e65a7409ebd0f8d14590838bf0bd8734ea2",
+      "level": "beginner"
+    },
+    {
+      "id": "storybookscanada-tom-le-vendeur-de-bananes",
+      "title": "Tom le vendeur de bananes",
+      "author": "Humphreys Odunga",
+      "file": "storybookscanada-tom-le-vendeur-de-bananes.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/storybookscanada-tom-le-vendeur-de-bananes.epub",
+      "bytes": 435329,
+      "sha256": "f14ef4e98dc01813da34b821fff97ef9bde7dd4c2c8f1953814160a38cd41b0d",
+      "level": "beginner"
+    },
+    {
+      "id": "storybookscanada-tingi-et-les-vaches",
+      "title": "Tingi et les vaches",
+      "author": "Ingrid Schechter",
+      "file": "storybookscanada-tingi-et-les-vaches.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/storybookscanada-tingi-et-les-vaches.epub",
+      "bytes": 371822,
+      "sha256": "e5ff914653d63986047b117430410d0426ab3b08f58fff382736f0caacef806b",
+      "level": "beginner"
+    },
+    {
+      "id": "storybookscanada-khalai-parle-aux-plantes",
+      "title": "Khalai parle aux plantes",
+      "author": "Ursula Nafula",
+      "file": "storybookscanada-khalai-parle-aux-plantes.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/storybookscanada-khalai-parle-aux-plantes.epub",
+      "bytes": 470432,
+      "sha256": "310be0511e0b9f77233c0eff9555ae122bad205968152f93c206bc400092b468",
+      "level": "beginner"
+    },
+    {
+      "id": "storybookscanada-zama-est-formidable",
+      "title": "Zama est formidable !",
+      "author": "Michael Oguttu",
+      "file": "storybookscanada-zama-est-formidable.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/storybookscanada-zama-est-formidable.epub",
+      "bytes": 456242,
+      "sha256": "61783289ab9861134243aa97ca72bd7c9008281c5cfcb396b2e79a26f40c321e",
+      "level": "beginner"
+    },
+    {
+      "id": "storybookscanada-chevre-chien-et-vache",
+      "title": "Chèvre, Chien et Vache",
+      "author": "Fabian Wakholi",
+      "file": "storybookscanada-chevre-chien-et-vache.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/storybookscanada-chevre-chien-et-vache.epub",
+      "bytes": 524814,
+      "sha256": "cdb5b716c94fb839f8a1a15834ad88767e940abf029de224ff52c4c046698542",
+      "level": "beginner"
+    },
+    {
+      "id": "storybookscanada-pourquoi-les-hippopotames-n-ont-pas-de-poils",
+      "title": "Pourquoi les hippopotames n’ont pas de poils",
+      "author": "Basilio Gimo, David Ker",
+      "file": "storybookscanada-pourquoi-les-hippopotames-n-ont-pas-de-poils.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/storybookscanada-pourquoi-les-hippopotames-n-ont-pas-de-poils.epub",
+      "bytes": 577465,
+      "sha256": "21eaa2d2e1f0fcf9d2989fc91fac8a24fadd18f3f2999ff5a2e5699acc0b4db3",
+      "level": "beginner"
+    },
+    {
+      "id": "storybookscanada-les-enfants-de-cire",
+      "title": "Les enfants de cire",
+      "author": "Southern African Folktale",
+      "file": "storybookscanada-les-enfants-de-cire.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/storybookscanada-les-enfants-de-cire.epub",
+      "bytes": 199967,
+      "sha256": "188cc74b537a2dca26ca6ca439c290d35f102b28bd3f1ff37633b83c6b4ae939",
+      "level": "beginner"
+    },
+    {
       "id": "segur-les-malheurs-de-sophie",
       "title": "Les Malheurs de Sophie",
       "author": "Comtesse de Ségur",
