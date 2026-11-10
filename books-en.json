@@ -3,6 +3,106 @@
   "target": "en",
   "books": [
     {
+      "id": "storybookscanada-i-like-to-read",
+      "title": "I like to read!",
+      "author": "Letta Machoga",
+      "file": "storybookscanada-i-like-to-read.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/storybookscanada-i-like-to-read.epub",
+      "bytes": 256328,
+      "sha256": "6daa51a22687cf4e78924ec4fff60321989a7aaf5c6176ee21ae7a61d428b6dc",
+      "level": "beginner"
+    },
+    {
+      "id": "storybookscanada-tom-the-banana-seller",
+      "title": "Tom the banana seller",
+      "author": "Humphreys Odunga",
+      "file": "storybookscanada-tom-the-banana-seller.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/storybookscanada-tom-the-banana-seller.epub",
+      "bytes": 480891,
+      "sha256": "7629469cf6bb37b3267d1d531ec7237161bdba79403f535f23765d6dd7d9a0be",
+      "level": "beginner"
+    },
+    {
+      "id": "lida-getting-medicine",
+      "title": "Getting medicine",
+      "author": "Espen Stranger-Johannessen",
+      "file": "lida-getting-medicine.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/lida-getting-medicine.epub",
+      "bytes": 154369,
+      "sha256": "46acc1d9ce37399a6cd915de80caecae53b4bf46ff39136c5ea335334eddc270",
+      "level": "beginner"
+    },
+    {
+      "id": "storybookscanada-tingi-and-the-cows",
+      "title": "Tingi and the cows",
+      "author": "Ingrid Schechter",
+      "file": "storybookscanada-tingi-and-the-cows.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/storybookscanada-tingi-and-the-cows.epub",
+      "bytes": 410647,
+      "sha256": "fd2fcb08f83cdf3b1532951a999989a9cfcdb098a2ba476d0173a76d8e387dc3",
+      "level": "beginner"
+    },
+    {
+      "id": "storybookscanada-khalai-talks-to-plants",
+      "title": "Khalai talks to plants",
+      "author": "Ursula Nafula",
+      "file": "storybookscanada-khalai-talks-to-plants.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/storybookscanada-khalai-talks-to-plants.epub",
+      "bytes": 531715,
+      "sha256": "0f74891cab9db61e61c5fb7bedfc61e32ece08dbc6b3944852a0e4949e5c65f3",
+      "level": "beginner"
+    },
+    {
+      "id": "storybookscanada-zama-is-great",
+      "title": "Zama is great!",
+      "author": "Michael Oguttu",
+      "file": "storybookscanada-zama-is-great.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/storybookscanada-zama-is-great.epub",
+      "bytes": 489382,
+      "sha256": "d19b2c09aad96195f515e377d5b41edb26c97e3fb04312b2bcd35470c74ba63a",
+      "level": "beginner"
+    },
+    {
+      "id": "storybookscanada-goat-dog-and-cow",
+      "title": "Goat, Dog, and Cow",
+      "author": "Fabian Wakholi",
+      "file": "storybookscanada-goat-dog-and-cow.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/storybookscanada-goat-dog-and-cow.epub",
+      "bytes": 593842,
+      "sha256": "b48059a848245d0cbad811bb699062459dfede30957a81a2c360b6396f0b6142",
+      "level": "beginner"
+    },
+    {
+      "id": "lida-what-sort-of-music-do-you-like",
+      "title": "What sort of music do you like?",
+      "author": "Espen Stranger-Johannessen",
+      "file": "lida-what-sort-of-music-do-you-like.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/lida-what-sort-of-music-do-you-like.epub",
+      "bytes": 100768,
+      "sha256": "bf01da7e3e338e4a03ccca606b54303c0b749d009db5ff08c48fbd8509f27c31",
+      "level": "beginner"
+    },
+    {
+      "id": "lida-buying-clothes",
+      "title": "Buying clothes",
+      "author": "Espen Stranger-Johannessen",
+      "file": "lida-buying-clothes.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/lida-buying-clothes.epub",
+      "bytes": 82021,
+      "sha256": "e89e58b897d41d46f74cb89c43c6e612791a3a754bea6cea9d7c50a48df11d26",
+      "level": "beginner"
+    },
+    {
+      "id": "talerie-three-short-fables",
+      "title": "Three Short Fables",
+      "author": "Aesop, retold by Talerie",
+      "file": "talerie-three-short-fables.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/talerie-three-short-fables.epub",
+      "bytes": 3423,
+      "sha256": "abce126f6a2a6857c51edc0d1a25674fc9e5ecd6cddcaf3c004f45e969f599f0",
+      "level": "beginner"
+    },
+    {
       "id": "potter-the-tale-of-peter-rabbit",
       "title": "The Tale of Peter Rabbit",
       "author": "Beatrix Potter",
