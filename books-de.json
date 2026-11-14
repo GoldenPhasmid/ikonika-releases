@@ -1,0 +1,306 @@
+{
+  "schema": 1,
+  "target": "de",
+  "books": [
+    {
+      "id": "der-struwwelpeter",
+      "title": "Der Struwwelpeter",
+      "author": "Heinrich Hoffmann",
+      "level": "beginner",
+      "file": "der-struwwelpeter.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/der-struwwelpeter.epub",
+      "bytes": 4260196,
+      "sha256": "cd7ddb2ab86a5fea6622ddd10023d8cd5a034f2b26ebffad91907361325cbdb1"
+    },
+    {
+      "id": "max-und-moritz",
+      "title": "Max und Moritz",
+      "author": "Wilhelm Busch",
+      "level": "beginner",
+      "file": "max-und-moritz.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/max-und-moritz.epub",
+      "bytes": 11922926,
+      "sha256": "06e4524064a9b73aa9b269af58ad834f64fcda4564d46bb2eb790227d75e6ecd"
+    },
+    {
+      "id": "deutsche-maerchen",
+      "title": "Deutsche Märchen",
+      "author": "Brüder Grimm",
+      "level": "beginner",
+      "file": "deutsche-maerchen.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/deutsche-maerchen.epub",
+      "bytes": 7773265,
+      "sha256": "1bf069e1735ac4103e29c97dee5cbcb27a0ee22158d367730169ff9bcf147588"
+    },
+    {
+      "id": "bechstein-maerchenbuch",
+      "title": "Ludwig Bechsteins Märchenbuch",
+      "author": "Ludwig Bechstein",
+      "level": "beginner",
+      "file": "bechstein-maerchenbuch.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/bechstein-maerchenbuch.epub",
+      "bytes": 14097203,
+      "sha256": "0da64127050b0f5f2d2eaf429d1e9bd0ddb73c998579d01f8eb8bd4adb416e32"
+    },
+    {
+      "id": "die-biene-maja",
+      "title": "Die Biene Maja und ihre Abenteuer",
+      "author": "Waldemar Bonsels",
+      "level": "beginner",
+      "file": "die-biene-maja.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/die-biene-maja.epub",
+      "bytes": 164686,
+      "sha256": "566722ace97d770fb76bfd03db17d85ceb46bd067c1eeee3f7461fcef980765b"
+    },
+    {
+      "id": "heidis-lehr-und-wanderjahre",
+      "title": "Heidis Lehr- und Wanderjahre",
+      "author": "Johanna Spyri",
+      "level": "beginner",
+      "file": "heidis-lehr-und-wanderjahre.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/heidis-lehr-und-wanderjahre.epub",
+      "bytes": 180354,
+      "sha256": "cd876d2d5893ba19b3bbd1fd659269e0f52ea6666d5de1f652ff38a208b49589"
+    },
+    {
+      "id": "die-leiden-des-jungen-werther",
+      "title": "Die Leiden des jungen Werther",
+      "author": "Johann Wolfgang von Goethe",
+      "level": "intermediate",
+      "file": "die-leiden-des-jungen-werther.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/die-leiden-des-jungen-werther.epub",
+      "bytes": 85268,
+      "sha256": "be281e901275b6337a4f5a487534ab9f4ee07e441621aa2fc2610c390aac6582"
+    },
+    {
+      "id": "wilhelm-tell",
+      "title": "Wilhelm Tell",
+      "author": "Friedrich Schiller",
+      "level": "intermediate",
+      "file": "wilhelm-tell.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/wilhelm-tell.epub",
+      "bytes": 324831,
+      "sha256": "1ce391a7eb7a3ee8cd5aec69b5b7a91c7e25fa889b27c27f5459377299860635"
+    },
+    {
+      "id": "der-schimmelreiter",
+      "title": "Der Schimmelreiter",
+      "author": "Theodor Storm",
+      "level": "intermediate",
+      "file": "der-schimmelreiter.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/der-schimmelreiter.epub",
+      "bytes": 222058,
+      "sha256": "3a0c087e0b930a87c66097af234f7c66ace5d6a9b4fd2bcfaee271a4af7bb9e4"
+    },
+    {
+      "id": "immensee",
+      "title": "Immensee",
+      "author": "Theodor Storm",
+      "level": "intermediate",
+      "file": "immensee.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/immensee.epub",
+      "bytes": 170275,
+      "sha256": "6311a2129057620f1ef523b7c8f5dbb33479f599fd1aa1f40073fee87a97b2bd"
+    },
+    {
+      "id": "kleider-machen-leute",
+      "title": "Kleider machen Leute",
+      "author": "Gottfried Keller",
+      "level": "intermediate",
+      "file": "kleider-machen-leute.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/kleider-machen-leute.epub",
+      "bytes": 66403,
+      "sha256": "24afcbf9d7e9047f6c680b13b1f294da39ae22b1b4539377ce6cec44d44de50f"
+    },
+    {
+      "id": "die-judenbuche",
+      "title": "Die Judenbuche",
+      "author": "Annette von Droste-Hülshoff",
+      "level": "intermediate",
+      "file": "die-judenbuche.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/die-judenbuche.epub",
+      "bytes": 1347373,
+      "sha256": "0906bbd87eea13a3474d6c644607dbc920e6bfd8f13111e5ffb84674ea495226"
+    },
+    {
+      "id": "peter-schlemihls-wundersame-geschichte",
+      "title": "Peter Schlemihls wundersame Geschichte",
+      "author": "Adelbert von Chamisso",
+      "level": "intermediate",
+      "file": "peter-schlemihls-wundersame-geschichte.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/peter-schlemihls-wundersame-geschichte.epub",
+      "bytes": 124962,
+      "sha256": "db4ccf86f5e2002254c89294bc09876f592e8d223502233bcdf5e4501d7fd868"
+    },
+    {
+      "id": "aus-dem-leben-eines-taugenichts",
+      "title": "Aus dem Leben eines Taugenichts",
+      "author": "Joseph von Eichendorff",
+      "level": "intermediate",
+      "file": "aus-dem-leben-eines-taugenichts.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/aus-dem-leben-eines-taugenichts.epub",
+      "bytes": 290535,
+      "sha256": "c90dddf2477d98f2c7a3ec1b5c64f615b4defbd56cc1f1d80bf7a0f3088dca4c"
+    },
+    {
+      "id": "der-sandmann",
+      "title": "Der Sandmann",
+      "author": "E. T. A. Hoffmann",
+      "level": "intermediate",
+      "file": "der-sandmann.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/der-sandmann.epub",
+      "bytes": 58048,
+      "sha256": "a7e812095f6645af2739244a8141ce9ca25903dd9ba901d3deab5f0ab718e76e"
+    },
+    {
+      "id": "woyzeck",
+      "title": "Woyzeck",
+      "author": "Georg Büchner",
+      "level": "intermediate",
+      "file": "woyzeck.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/woyzeck.epub",
+      "bytes": 74577,
+      "sha256": "4f51fe37c450952163a4e4240c1cc20e675e157dced451805c3e06913a2ca9f9"
+    },
+    {
+      "id": "bahnwaerter-thiel",
+      "title": "Bahnwärter Thiel",
+      "author": "Gerhart Hauptmann",
+      "level": "intermediate",
+      "file": "bahnwaerter-thiel.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/bahnwaerter-thiel.epub",
+      "bytes": 107795,
+      "sha256": "b9aa6348e18f74cedb91e89f654c4a1da2e3e062656e56aaa906c5510c5ada83"
+    },
+    {
+      "id": "nathan-der-weise",
+      "title": "Nathan der Weise",
+      "author": "Gotthold Ephraim Lessing",
+      "level": "intermediate",
+      "file": "nathan-der-weise.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/nathan-der-weise.epub",
+      "bytes": 175219,
+      "sha256": "e7e42674609ad6dbe22994bf552a053fb37f79f898d7acb1c7bac29d9f30d5b8"
+    },
+    {
+      "id": "der-arme-spielmann",
+      "title": "Der arme Spielmann",
+      "author": "Franz Grillparzer",
+      "level": "intermediate",
+      "file": "der-arme-spielmann.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/der-arme-spielmann.epub",
+      "bytes": 91176,
+      "sha256": "d637df9215700f838f04cd43a4664fe55ea270dd5774c96d804cad7713804f69"
+    },
+    {
+      "id": "das-kalte-herz",
+      "title": "Das kalte Herz",
+      "author": "Wilhelm Hauff",
+      "level": "intermediate",
+      "file": "das-kalte-herz.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/das-kalte-herz.epub",
+      "bytes": 72507,
+      "sha256": "524df32b94bc9b5f88cc032cc08fe0a629c9f0fe187763f429c859b15427d725"
+    },
+    {
+      "id": "der-zerbrochne-krug",
+      "title": "Der zerbrochne Krug",
+      "author": "Heinrich von Kleist",
+      "level": "intermediate",
+      "file": "der-zerbrochne-krug.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/der-zerbrochne-krug.epub",
+      "bytes": 97400,
+      "sha256": "54f5b98006ca517c9e8163564e71b69f86bb315ee89baab522566de90cfa85e2"
+    },
+    {
+      "id": "faust-erster-teil",
+      "title": "Faust. Eine Tragödie",
+      "author": "Johann Wolfgang von Goethe",
+      "level": "advanced",
+      "file": "faust-erster-teil.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/faust-erster-teil.epub",
+      "bytes": 169116,
+      "sha256": "e0062f38f2e9e3f21cb58f81fba56877efe91c17af663e995bd293882ef619af"
+    },
+    {
+      "id": "also-sprach-zarathustra",
+      "title": "Also sprach Zarathustra",
+      "author": "Friedrich Nietzsche",
+      "level": "advanced",
+      "file": "also-sprach-zarathustra.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/also-sprach-zarathustra.epub",
+      "bytes": 373086,
+      "sha256": "ffa8d8b204f8e0bd7cc67f5310bb24c05819821835d8307f774380250cecb7f2"
+    },
+    {
+      "id": "die-verwandlung",
+      "title": "Die Verwandlung",
+      "author": "Franz Kafka",
+      "level": "advanced",
+      "file": "die-verwandlung.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/die-verwandlung.epub",
+      "bytes": 90351,
+      "sha256": "3bd7760d93121d12913421b201b3536ad2bcf4989212cae183d8c9ade7970e69"
+    },
+    {
+      "id": "der-prozess",
+      "title": "Der Prozess",
+      "author": "Franz Kafka",
+      "level": "advanced",
+      "file": "der-prozess.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/der-prozess.epub",
+      "bytes": 480082,
+      "sha256": "bbece111de49a6a321c1d957e3ddfdae8d1200c817f32cbc3de8e3b6ff57e373"
+    },
+    {
+      "id": "buddenbrooks",
+      "title": "Buddenbrooks",
+      "author": "Thomas Mann",
+      "level": "advanced",
+      "file": "buddenbrooks.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/buddenbrooks.epub",
+      "bytes": 856326,
+      "sha256": "2da3e3ecda5f9cd8841ec9c742da6c2348365cdfd018f58ccfed2ee866060384"
+    },
+    {
+      "id": "der-tod-in-venedig",
+      "title": "Der Tod in Venedig",
+      "author": "Thomas Mann",
+      "level": "advanced",
+      "file": "der-tod-in-venedig.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/der-tod-in-venedig.epub",
+      "bytes": 124152,
+      "sha256": "5b33afb8e7dc09325392c89086699205160ed5f6c0c2ebfbefe524f4dce16b98"
+    },
+    {
+      "id": "die-traumdeutung",
+      "title": "Die Traumdeutung",
+      "author": "Sigmund Freud",
+      "level": "advanced",
+      "file": "die-traumdeutung.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/die-traumdeutung.epub",
+      "bytes": 923745,
+      "sha256": "a63ee37a767ca692972b02e7327b0ac90ee6b78c39544b8a2a2701dbcdb4045e"
+    },
+    {
+      "id": "der-golem",
+      "title": "Der Golem",
+      "author": "Gustav Meyrink",
+      "level": "advanced",
+      "file": "der-golem.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/der-golem.epub",
+      "bytes": 244062,
+      "sha256": "6cb7e4babe0977bc3cf17d945125ea7090cf2b1ce9a7de3adcfd827bccfcae85"
+    },
+    {
+      "id": "die-aufzeichnungen-des-malte-laurids-brigge",
+      "title": "Die Aufzeichnungen des Malte Laurids Brigge",
+      "author": "Rainer Maria Rilke",
+      "level": "advanced",
+      "file": "die-aufzeichnungen-des-malte-laurids-brigge.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-de/die-aufzeichnungen-des-malte-laurids-brigge.epub",
+      "bytes": 224354,
+      "sha256": "54419d1ca607b4003afdb5ed10d98ff63ab2406085651618a9240af00ea533a4"
+    }
+  ]
+}

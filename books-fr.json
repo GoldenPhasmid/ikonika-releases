@@ -33,6 +33,36 @@
       "level": "beginner"
     },
     {
+      "id": "fables-la-fontaine",
+      "title": "Fables",
+      "author": "Jean de La Fontaine",
+      "level": "beginner",
+      "file": "fables-la-fontaine.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/fables-la-fontaine.epub",
+      "bytes": 576105,
+      "sha256": "4ccf40c316f384c66c8e35c3b9c40737c467c61bd5f6e7e6b340c893cf7673dc"
+    },
+    {
+      "id": "moliere-le-medecin-malgre-lui",
+      "title": "Le Médecin malgré lui",
+      "author": "Molière",
+      "level": "beginner",
+      "file": "moliere-le-medecin-malgre-lui.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/moliere-le-medecin-malgre-lui.epub",
+      "bytes": 40437,
+      "sha256": "90453ab0e9e9edbdd963d5c520944a1af28d91c0ddb0a0d6e403aa8fad28d7a7"
+    },
+    {
+      "id": "daudet-la-belle-nivernaise",
+      "title": "La Belle-Nivernaise",
+      "author": "Alphonse Daudet",
+      "level": "beginner",
+      "file": "daudet-la-belle-nivernaise.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/daudet-la-belle-nivernaise.epub",
+      "bytes": 68380,
+      "sha256": "8574f621bcb7d7e8185d07054efea72faecf7701eb7675ae5304d5ba01a7e3d0"
+    },
+    {
       "id": "daudet-le-petit-chose",
       "title": "Le Petit Chose",
       "author": "Alphonse Daudet",
@@ -63,6 +93,96 @@
       "level": "intermediate"
     },
     {
+      "id": "stevenson-l-ile-au-tresor",
+      "title": "L’Île au trésor",
+      "author": "Robert Louis Stevenson",
+      "level": "intermediate",
+      "file": "stevenson-l-ile-au-tresor.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/stevenson-l-ile-au-tresor.epub",
+      "bytes": 3794988,
+      "sha256": "a0f59bb5c4683f355f35a3e9f4f1c0824cbfdf0bde5d70963823fca297f0fe30"
+    },
+    {
+      "id": "twain-tom-sawyer-hughes-1884",
+      "title": "Les Aventures de Tom Sawyer (adaptation de 1884)",
+      "author": "Mark Twain",
+      "level": "intermediate",
+      "file": "twain-tom-sawyer-hughes-1884.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/twain-tom-sawyer-hughes-1884.epub",
+      "bytes": 174677,
+      "sha256": "5ccfbbc6506d2861ae48b5445e1369b91ae8b29a066f3e1ad697b671d73c877d"
+    },
+    {
+      "id": "voltaire-candide",
+      "title": "Candide",
+      "author": "Voltaire",
+      "level": "intermediate",
+      "file": "voltaire-candide.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/voltaire-candide.epub",
+      "bytes": 120907,
+      "sha256": "6a89cfbee56a9910131efe8ef29c3ff192a0d4772c645885e25681d698f564e7"
+    },
+    {
+      "id": "verne-le-tour-du-monde-en-quatre-vingts-jours",
+      "title": "Le Tour du monde en quatre-vingts jours",
+      "author": "Jules Verne",
+      "level": "intermediate",
+      "file": "verne-le-tour-du-monde-en-quatre-vingts-jours.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/verne-le-tour-du-monde-en-quatre-vingts-jours.epub",
+      "bytes": 195696,
+      "sha256": "4705e5e1311d61aa34dc66c2e870a3c6ee0f7f7751b1e21fc494aae6c78c2ae2"
+    },
+    {
+      "id": "sand-la-petite-fadette",
+      "title": "La Petite Fadette",
+      "author": "George Sand",
+      "level": "intermediate",
+      "file": "sand-la-petite-fadette.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/sand-la-petite-fadette.epub",
+      "bytes": 151875,
+      "sha256": "0a77159b0ecdaa4673d9a605fb748f830ef37988133c69c8e1d034b148630585"
+    },
+    {
+      "id": "sand-la-mare-au-diable",
+      "title": "La Mare au diable",
+      "author": "George Sand",
+      "level": "intermediate",
+      "file": "sand-la-mare-au-diable.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/sand-la-mare-au-diable.epub",
+      "bytes": 101138,
+      "sha256": "5ff546fbb26f99b0a183a44bb79c746c16d9a4f021dd7a8682e01c73614a2978"
+    },
+    {
+      "id": "merimee-la-venus-d-ille",
+      "title": "La Vénus d'Ille",
+      "author": "Prosper Mérimée",
+      "level": "intermediate",
+      "file": "merimee-la-venus-d-ille.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/merimee-la-venus-d-ille.epub",
+      "bytes": 29636,
+      "sha256": "34b10c15d19b3abb4fda436fcd60bd8dfe1c557abe86252273cc3d873d078283"
+    },
+    {
+      "id": "moliere-l-avare",
+      "title": "L'Avare",
+      "author": "Molière",
+      "level": "intermediate",
+      "file": "moliere-l-avare.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/moliere-l-avare.epub",
+      "bytes": 69297,
+      "sha256": "62e10f180875e33bc9888dc35299d04d1cf2232f5df7971d382fe1e06d8d0b52"
+    },
+    {
+      "id": "hugo-le-dernier-jour-d-un-condamne",
+      "title": "Le Dernier Jour d'un condamné",
+      "author": "Victor Hugo",
+      "level": "intermediate",
+      "file": "hugo-le-dernier-jour-d-un-condamne.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/hugo-le-dernier-jour-d-un-condamne.epub",
+      "bytes": 99264,
+      "sha256": "230b04858b56d05494fdae2705add74a25fb8ac3beebbe210cf40a395e4be513"
+    },
+    {
       "id": "maupassant-contes-du-jour-et-de-la-nuit",
       "title": "Contes du jour et de la nuit",
       "author": "Guy de Maupassant",
@@ -81,16 +201,6 @@
       "bytes": 119890,
       "sha256": "4e2ead8752d67fce7a8e1c45a12f1b5ed5c8f50d16d3064fb27898b574baadf4",
       "level": "advanced"
-    },
-    {
-      "id": "stevenson-l-ile-au-tresor",
-      "title": "L’Île au trésor",
-      "author": "Robert Louis Stevenson",
-      "level": "intermediate",
-      "file": "stevenson-l-ile-au-tresor.epub",
-      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/stevenson-l-ile-au-tresor.epub",
-      "bytes": 3794988,
-      "sha256": "a0f59bb5c4683f355f35a3e9f4f1c0824cbfdf0bde5d70963823fca297f0fe30"
     },
     {
       "id": "carroll-alice-au-pays-des-merveilles",
@@ -113,14 +223,84 @@
       "sha256": "ea481cae0b644d47f90189c65221b382839f90daab20cb85f4f7d251fe5837fc"
     },
     {
-      "id": "twain-tom-sawyer-hughes-1884",
-      "title": "Les Aventures de Tom Sawyer (adaptation de 1884)",
-      "author": "Mark Twain",
-      "level": "intermediate",
-      "file": "twain-tom-sawyer-hughes-1884.epub",
-      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/twain-tom-sawyer-hughes-1884.epub",
-      "bytes": 174677,
-      "sha256": "5ccfbbc6506d2861ae48b5445e1369b91ae8b29a066f3e1ad697b671d73c877d"
+      "id": "verne-vingt-mille-lieues-sous-les-mers",
+      "title": "Vingt mille lieues sous les mers",
+      "author": "Jules Verne",
+      "level": "advanced",
+      "file": "verne-vingt-mille-lieues-sous-les-mers.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/verne-vingt-mille-lieues-sous-les-mers.epub",
+      "bytes": 367397,
+      "sha256": "d32cd3578288e7ac840e8399c72989b4f95f94c02c4f2269ec96220bcc3ee781"
+    },
+    {
+      "id": "dumas-les-trois-mousquetaires",
+      "title": "Les Trois Mousquetaires",
+      "author": "Alexandre Dumas",
+      "level": "advanced",
+      "file": "dumas-les-trois-mousquetaires.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/dumas-les-trois-mousquetaires.epub",
+      "bytes": 784322,
+      "sha256": "f4e1f8acc34bc77884ce6a121249920a4b78f4e460ece34db0727acbdbf0a966"
+    },
+    {
+      "id": "hugo-notre-dame-de-paris",
+      "title": "Notre-Dame de Paris",
+      "author": "Victor Hugo",
+      "level": "advanced",
+      "file": "hugo-notre-dame-de-paris.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/hugo-notre-dame-de-paris.epub",
+      "bytes": 469396,
+      "sha256": "847767bb79c4cc97e377fe38fa95a18c9e7ffa5e6323a35d0eb9317dd9aa1340"
+    },
+    {
+      "id": "flaubert-madame-bovary",
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "level": "advanced",
+      "file": "flaubert-madame-bovary.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/flaubert-madame-bovary.epub",
+      "bytes": 325136,
+      "sha256": "6862509ac87536d638a1c6bfe3c5339fd0b9004a7765b273208112b5427cbc88"
+    },
+    {
+      "id": "balzac-eugenie-grandet",
+      "title": "Eugénie Grandet",
+      "author": "Honoré de Balzac",
+      "level": "advanced",
+      "file": "balzac-eugenie-grandet.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/balzac-eugenie-grandet.epub",
+      "bytes": 169301,
+      "sha256": "ae1fa7716c6ba33e4fb86f49fa68026500e07883f07115dc0edc31a386fc4ccb"
+    },
+    {
+      "id": "proust-du-cote-de-chez-swann",
+      "title": "Du côté de chez Swann",
+      "author": "Marcel Proust",
+      "level": "advanced",
+      "file": "proust-du-cote-de-chez-swann.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/proust-du-cote-de-chez-swann.epub",
+      "bytes": 421531,
+      "sha256": "763f12ebc45b54a0910cda0a9a3ef5a3ada5cc0ee0333128f63c6fb73eaf929b"
+    },
+    {
+      "id": "zola-therese-raquin",
+      "title": "Thérèse Raquin",
+      "author": "Émile Zola",
+      "level": "advanced",
+      "file": "zola-therese-raquin.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/zola-therese-raquin.epub",
+      "bytes": 175302,
+      "sha256": "410eb8ccb744d1231bef9cc409f9b0b752d53322121147fee27f567cfcca0c40"
+    },
+    {
+      "id": "maupassant-une-vie",
+      "title": "Une vie",
+      "author": "Guy de Maupassant",
+      "level": "advanced",
+      "file": "maupassant-une-vie.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/maupassant-une-vie.epub",
+      "bytes": 206170,
+      "sha256": "a9364bb21351bcf02d7506ecd66ad6241f927b2d790b4d74ff210f269d3127c4"
     }
   ]
 }

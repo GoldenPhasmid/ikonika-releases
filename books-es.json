@@ -33,6 +33,36 @@
       "level": "beginner"
     },
     {
+      "id": "platero-y-yo",
+      "title": "Platero y yo",
+      "author": "Juan Ramón Jiménez",
+      "level": "beginner",
+      "file": "platero-y-yo.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/platero-y-yo.epub",
+      "bytes": 39738,
+      "sha256": "7d87aee35788ae162b923b531210e9e16217389d193a8da2ef79345039b3885d"
+    },
+    {
+      "id": "corazon-diario-de-un-nino",
+      "title": "Corazón: diario de un niño",
+      "author": "Edmondo De Amicis",
+      "level": "beginner",
+      "file": "corazon-diario-de-un-nino.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/corazon-diario-de-un-nino.epub",
+      "bytes": 4015129,
+      "sha256": "c0c4b72cd822870727d03d9044b1125365ba2e702be8100230e5a39706550345"
+    },
+    {
+      "id": "el-si-de-las-ninas",
+      "title": "El sí de las niñas",
+      "author": "Leandro Fernández de Moratín",
+      "level": "beginner",
+      "file": "el-si-de-las-ninas.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/el-si-de-las-ninas.epub",
+      "bytes": 103355,
+      "sha256": "de9c121d6d2cbb087e7fd4e3e8fdc554cca954e231a727044f83bfb3f346bc4f"
+    },
+    {
       "id": "coloma-raton-perez",
       "title": "Ratón Pérez",
       "author": "Luis Coloma",
@@ -103,6 +133,96 @@
       "sha256": "ebb290028935029b14cba570d5713164f5911e8b36500d4b505ab608fcebe3c0"
     },
     {
+      "id": "la-gaviota",
+      "title": "La gaviota",
+      "author": "Fernán Caballero",
+      "level": "intermediate",
+      "file": "la-gaviota.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/la-gaviota.epub",
+      "bytes": 243416,
+      "sha256": "344c1a88d7532a3ecd1037ebaf58401976e3314fd90408832b23c0703f16ac83"
+    },
+    {
+      "id": "pepita-jimenez",
+      "title": "Pepita Jiménez",
+      "author": "Juan Valera",
+      "level": "intermediate",
+      "file": "pepita-jimenez.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/pepita-jimenez.epub",
+      "bytes": 140454,
+      "sha256": "a76383d6827e8f3e27d5c9e67e442ea04e949c5d47a04dd90b0a0648ff1e1c3f"
+    },
+    {
+      "id": "martin-fierro",
+      "title": "El Gaucho Martín Fierro",
+      "author": "José Hernández",
+      "level": "intermediate",
+      "file": "martin-fierro.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/martin-fierro.epub",
+      "bytes": 36709,
+      "sha256": "4ef5c47c25967dbee42d497c8efa34dcab95fbd25e243a5cc6c3f2144f34c399"
+    },
+    {
+      "id": "la-barraca",
+      "title": "La Barraca",
+      "author": "Vicente Blasco Ibáñez",
+      "level": "intermediate",
+      "file": "la-barraca.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/la-barraca.epub",
+      "bytes": 156583,
+      "sha256": "a33dd9d4c33baaa40baa8dd9d220650b0645d01e8a076f5c0543debdb884be12"
+    },
+    {
+      "id": "cuentos-de-amor-de-locura-y-de-muerte",
+      "title": "Cuentos de amor, de locura y de muerte",
+      "author": "Horacio Quiroga",
+      "level": "intermediate",
+      "file": "cuentos-de-amor-de-locura-y-de-muerte.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/cuentos-de-amor-de-locura-y-de-muerte.epub",
+      "bytes": 144707,
+      "sha256": "63a070d5913457fb4136e1dc1668396b63d85cb6b6323da15445d273bc58b3e5"
+    },
+    {
+      "id": "tradiciones-peruanas",
+      "title": "Tradiciones peruanas",
+      "author": "Ricardo Palma",
+      "level": "intermediate",
+      "file": "tradiciones-peruanas.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/tradiciones-peruanas.epub",
+      "bytes": 136838,
+      "sha256": "865876248e366aab1c34a481e9ee12ff1f1c28a427fedd5d3120bb2ff7da385a"
+    },
+    {
+      "id": "fuente-ovejuna",
+      "title": "Fuente Ovejuna",
+      "author": "Lope de Vega",
+      "level": "intermediate",
+      "file": "fuente-ovejuna.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/fuente-ovejuna.epub",
+      "bytes": 92804,
+      "sha256": "48a796ce0e0102b40b0f91e97e61a4ab3afdccf4feb21ff834a93e967ec33983"
+    },
+    {
+      "id": "figaro-articulos-selectos",
+      "title": "Fígaro (Artículos selectos)",
+      "author": "Mariano José de Larra",
+      "level": "intermediate",
+      "file": "figaro-articulos-selectos.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/figaro-articulos-selectos.epub",
+      "bytes": 323486,
+      "sha256": "a304dac002e23784577b2501351779616d432b998d02c2bb1f9e5c2f70327a88"
+    },
+    {
+      "id": "becquer-obras-escogidas",
+      "title": "Obras escogidas",
+      "author": "Gustavo Adolfo Bécquer",
+      "level": "intermediate",
+      "file": "becquer-obras-escogidas.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/becquer-obras-escogidas.epub",
+      "bytes": 1213941,
+      "sha256": "dceb54cbd028d74e519f8edbfc583320e6b5d4224beff19bd30900094b00328a"
+    },
+    {
       "id": "kipling-el-libro-de-las-tierras-virgenes",
       "title": "El libro de las tierras vírgenes",
       "author": "Rudyard Kipling",
@@ -111,6 +231,76 @@
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/kipling-el-libro-de-las-tierras-virgenes.epub",
       "bytes": 6043012,
       "sha256": "ea49b41eef910569beb6cae03de6c24e97097a4912637bb4a844cf10893760b2"
+    },
+    {
+      "id": "don-quijote",
+      "title": "Don Quijote",
+      "author": "Miguel de Cervantes Saavedra",
+      "level": "advanced",
+      "file": "don-quijote.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/don-quijote.epub",
+      "bytes": 1135209,
+      "sha256": "41c50eca19cc468ed6c0275cf684be108e0525c9a15f6baca48315121ae3bda4"
+    },
+    {
+      "id": "novelas-ejemplares",
+      "title": "Novelas ejemplares",
+      "author": "Miguel de Cervantes Saavedra",
+      "level": "advanced",
+      "file": "novelas-ejemplares.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/novelas-ejemplares.epub",
+      "bytes": 490209,
+      "sha256": "c7c78a0ab226487942fbd2ea2cb2df52d78236b2aa1d48c69a8f160a1da74811"
+    },
+    {
+      "id": "el-conde-lucanor",
+      "title": "El conde Lucanor",
+      "author": "Don Juan Manuel",
+      "level": "advanced",
+      "file": "el-conde-lucanor.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/el-conde-lucanor.epub",
+      "bytes": 372509,
+      "sha256": "b4142efcafc0d27a7bc9a2052e98bcb58e211dab10bf111279d074498bbb6d82"
+    },
+    {
+      "id": "la-regenta",
+      "title": "La Regenta",
+      "author": "Leopoldo Alas",
+      "level": "advanced",
+      "file": "la-regenta.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/la-regenta.epub",
+      "bytes": 820899,
+      "sha256": "4d169fbe42a4981b1bfabb3acb27e83990ec2f0f7e671e08c968db4fad64ee69"
+    },
+    {
+      "id": "los-pazos-de-ulloa",
+      "title": "Los pazos de Ulloa",
+      "author": "Emilia Pardo Bazán",
+      "level": "advanced",
+      "file": "los-pazos-de-ulloa.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/los-pazos-de-ulloa.epub",
+      "bytes": 229979,
+      "sha256": "84e9d3a8f100a9c9c7f31b38a8916980d2d15b500f93b3567b806f09c1908503"
+    },
+    {
+      "id": "misericordia",
+      "title": "Misericordia",
+      "author": "Benito Pérez Galdós",
+      "level": "advanced",
+      "file": "misericordia.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/misericordia.epub",
+      "bytes": 222569,
+      "sha256": "28f2c1587cb385e32c07bcaf81107c51b8e03baa7f1e91660d510c5f524ffe95"
+    },
+    {
+      "id": "niebla",
+      "title": "Niebla",
+      "author": "Miguel de Unamuno",
+      "level": "advanced",
+      "file": "niebla.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-es/niebla.epub",
+      "bytes": 209078,
+      "sha256": "b56d966d577675c3c6206bfd9636e9f44e68ee9fecd4f53fb4134ab69bbc390c"
     }
   ]
 }

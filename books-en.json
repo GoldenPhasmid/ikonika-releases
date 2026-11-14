@@ -103,26 +103,6 @@
       "level": "intermediate"
     },
     {
-      "id": "bronte-jane-eyre",
-      "title": "Jane Eyre",
-      "author": "Charlotte Brontë",
-      "file": "bronte-jane-eyre.epub",
-      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/bronte-jane-eyre.epub",
-      "bytes": 3070859,
-      "sha256": "a9f3810b4bddc7c52306f288762b9f56e4e5ec33c9a5b653b675334583dfc9ac",
-      "level": "advanced"
-    },
-    {
-      "id": "poe-the-fall-of-the-house-of-usher",
-      "title": "The Fall of the House of Usher",
-      "author": "Edgar Allan Poe",
-      "file": "poe-the-fall-of-the-house-of-usher.epub",
-      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/poe-the-fall-of-the-house-of-usher.epub",
-      "bytes": 157308,
-      "sha256": "ff4bb7fc1a81041bdedd6dba31c737da4e19193fde48868db706db17e24755a3",
-      "level": "advanced"
-    },
-    {
       "id": "leroux-the-phantom-of-the-opera",
       "title": "The Phantom of the Opera",
       "author": "Gaston Leroux",
@@ -133,16 +113,6 @@
       "level": "intermediate"
     },
     {
-      "id": "northup-twelve-years-a-slave",
-      "title": "Twelve Years a Slave",
-      "author": "Solomon Northup",
-      "file": "northup-twelve-years-a-slave.epub",
-      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/northup-twelve-years-a-slave.epub",
-      "bytes": 853815,
-      "sha256": "a4b4aae5fac5f6f8e675501f214d566bedfbbcb4583399f4b4789b49bf5abb83",
-      "level": "advanced"
-    },
-    {
       "id": "twain-the-adventures-of-tom-sawyer",
       "title": "The Adventures of Tom Sawyer",
       "author": "Mark Twain",
@@ -151,16 +121,6 @@
       "bytes": 16630158,
       "sha256": "44199c70697059d15685742fe1bb6ef9746aed608b4f8b707342a42a757b4b69",
       "level": "intermediate"
-    },
-    {
-      "id": "bronte-wuthering-heights",
-      "title": "Wuthering Heights",
-      "author": "Emily Brontë",
-      "file": "bronte-wuthering-heights.epub",
-      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/bronte-wuthering-heights.epub",
-      "bytes": 521006,
-      "sha256": "24b45d648bf29858adf1ef6257d7d0dc3f2ca189c681071d56998ba6e3d16850",
-      "level": "advanced"
     },
     {
       "id": "london-white-fang",
@@ -201,6 +161,146 @@
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/stevenson-treasure-island.epub",
       "bytes": 49174750,
       "sha256": "ba368a4b3e441c091d1e74a5551b4907ab3bf3fa96d3242814a01ce3117e655f"
+    },
+    {
+      "id": "defoe-robinson-crusoe",
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "file": "defoe-robinson-crusoe.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/defoe-robinson-crusoe.epub",
+      "bytes": 262961,
+      "sha256": "3a6ce0dd47271ca24f1bdb59d7ff375b39a6d24aa77156e91f56ea0ef76ceb9f",
+      "level": "intermediate"
+    },
+    {
+      "id": "dickens-a-christmas-carol",
+      "title": "A Christmas Carol",
+      "author": "Charles Dickens",
+      "file": "dickens-a-christmas-carol.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/dickens-a-christmas-carol.epub",
+      "bytes": 628534,
+      "sha256": "2041a33708cb26cd894bb1bc765e7fec81019ae1159ae5597883b9bdca887a79",
+      "level": "intermediate"
+    },
+    {
+      "id": "wells-the-time-machine",
+      "title": "The Time Machine",
+      "author": "H. G. Wells",
+      "file": "wells-the-time-machine.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/wells-the-time-machine.epub",
+      "bytes": 297879,
+      "sha256": "0e8161b554377998b8fa384064b683ec7a41b3e16a5861bd08053fe3241ecda8",
+      "level": "intermediate"
+    },
+    {
+      "id": "bronte-jane-eyre",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "file": "bronte-jane-eyre.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/bronte-jane-eyre.epub",
+      "bytes": 3070859,
+      "sha256": "a9f3810b4bddc7c52306f288762b9f56e4e5ec33c9a5b653b675334583dfc9ac",
+      "level": "advanced"
+    },
+    {
+      "id": "poe-the-fall-of-the-house-of-usher",
+      "title": "The Fall of the House of Usher",
+      "author": "Edgar Allan Poe",
+      "file": "poe-the-fall-of-the-house-of-usher.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/poe-the-fall-of-the-house-of-usher.epub",
+      "bytes": 157308,
+      "sha256": "ff4bb7fc1a81041bdedd6dba31c737da4e19193fde48868db706db17e24755a3",
+      "level": "advanced"
+    },
+    {
+      "id": "northup-twelve-years-a-slave",
+      "title": "Twelve Years a Slave",
+      "author": "Solomon Northup",
+      "file": "northup-twelve-years-a-slave.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/northup-twelve-years-a-slave.epub",
+      "bytes": 853815,
+      "sha256": "a4b4aae5fac5f6f8e675501f214d566bedfbbcb4583399f4b4789b49bf5abb83",
+      "level": "advanced"
+    },
+    {
+      "id": "bronte-wuthering-heights",
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "file": "bronte-wuthering-heights.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/bronte-wuthering-heights.epub",
+      "bytes": 521006,
+      "sha256": "24b45d648bf29858adf1ef6257d7d0dc3f2ca189c681071d56998ba6e3d16850",
+      "level": "advanced"
+    },
+    {
+      "id": "austen-pride-and-prejudice",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "file": "austen-pride-and-prejudice.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/austen-pride-and-prejudice.epub",
+      "bytes": 600263,
+      "sha256": "4d345cf3704fcaa89703e1aed5dca5e8dd9a5674495202a05a6369787f57b52f",
+      "level": "advanced"
+    },
+    {
+      "id": "melville-moby-dick",
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "file": "melville-moby-dick.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/melville-moby-dick.epub",
+      "bytes": 830683,
+      "sha256": "6d09f03c417a0d65d66a119fec970732307f56df18130382db059748f15138f1",
+      "level": "advanced"
+    },
+    {
+      "id": "shakespeare-macbeth",
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "file": "shakespeare-macbeth.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/shakespeare-macbeth.epub",
+      "bytes": 265432,
+      "sha256": "01ee205b7f5d4db6e385014021120bc4ca918cafc740ea989ac44e0436e8ec40",
+      "level": "advanced"
+    },
+    {
+      "id": "shelley-frankenstein",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "file": "shelley-frankenstein.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/shelley-frankenstein.epub",
+      "bytes": 400902,
+      "sha256": "87b8419869dad3a5f092336dcbf6146b234c0e3e79d88259c7c0d94110f0ec21",
+      "level": "advanced"
+    },
+    {
+      "id": "stoker-dracula",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "file": "stoker-dracula.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/stoker-dracula.epub",
+      "bytes": 594501,
+      "sha256": "493a180c481c61df4777cecd02b1cf59a707a423c489b6765114367216242946",
+      "level": "advanced"
+    },
+    {
+      "id": "swift-gullivers-travels",
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "file": "swift-gullivers-travels.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/swift-gullivers-travels.epub",
+      "bytes": 724797,
+      "sha256": "810f76f46d2159a379db0743182eb3d1b132d0a418707b2d17d8245a4e0ca1af",
+      "level": "advanced"
+    },
+    {
+      "id": "verne-twenty-thousand-leagues-under-the-sea",
+      "title": "Twenty Thousand Leagues Under the Sea",
+      "author": "Jules Verne",
+      "file": "verne-twenty-thousand-leagues-under-the-sea.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-en/verne-twenty-thousand-leagues-under-the-sea.epub",
+      "bytes": 3143009,
+      "sha256": "2db5c8a1d700417cf4d078c92a6074cbacaced228edb239bd54d7d14b62e47b5",
+      "level": "advanced"
     }
   ]
 }
