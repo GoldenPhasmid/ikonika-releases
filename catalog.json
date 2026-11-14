@@ -136,6 +136,20 @@
       "sha256": "8c316a5544afb4e867795eef55c34268fcb101f55a75ff86a48001af6cd080b5"
     },
     {
+      "id": "dictionary-de",
+      "kind": "dictionary",
+      "target": "de",
+      "natives": ["en"],
+      "version": 1,
+      "dictionarySchema": 11,
+      "file": "de-dictionary.zip",
+      "unpackTo": ".",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/dictionary-de-1/de-dictionary.zip",
+      "bytes": 63030838,
+      "unpackedBytes": 150044672,
+      "sha256": "4d363285209a6a496568cbf80e4481b1176c21f92dbfacc8286cd28471b3f5fa"
+    },
+    {
       "id": "supertonic-3",
       "kind": "voice",
       "target": null,
