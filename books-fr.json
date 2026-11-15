@@ -63,6 +63,26 @@
       "sha256": "8574f621bcb7d7e8185d07054efea72faecf7701eb7675ae5304d5ba01a7e3d0"
     },
     {
+      "id": "renard-poil-de-carotte",
+      "title": "Poil de Carotte",
+      "author": "Jules Renard",
+      "level": "beginner",
+      "file": "renard-poil-de-carotte.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/renard-poil-de-carotte.epub",
+      "bytes": 85587,
+      "sha256": "4c7df1d7a78febc5fec647ea5e5022e43097a8865e7839de4fe92f0ab95cfdd9"
+    },
+    {
+      "id": "renard-histoires-naturelles",
+      "title": "Histoires naturelles",
+      "author": "Jules Renard",
+      "level": "beginner",
+      "file": "renard-histoires-naturelles.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/renard-histoires-naturelles.epub",
+      "bytes": 83023,
+      "sha256": "17d41a3da0be53365e05b092bbfe69d925a89b5eb778a0dbdcdea128584e5c43"
+    },
+    {
       "id": "daudet-le-petit-chose",
       "title": "Le Petit Chose",
       "author": "Alphonse Daudet",
@@ -181,6 +201,26 @@
       "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/hugo-le-dernier-jour-d-un-condamne.epub",
       "bytes": 99264,
       "sha256": "230b04858b56d05494fdae2705add74a25fb8ac3beebbe210cf40a395e4be513"
+    },
+    {
+      "id": "daudet-tartarin-de-tarascon",
+      "title": "Tartarin de Tarascon",
+      "author": "Alphonse Daudet",
+      "level": "intermediate",
+      "file": "daudet-tartarin-de-tarascon.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/daudet-tartarin-de-tarascon.epub",
+      "bytes": 94362,
+      "sha256": "d26e9da9bdfdd1c781901f71cc81d5c74fdf7e6f5b793c239d0d54e87c1b5f03"
+    },
+    {
+      "id": "colette-claudine-a-l-ecole",
+      "title": "Claudine à l’école",
+      "author": "Colette",
+      "level": "intermediate",
+      "file": "colette-claudine-a-l-ecole.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-fr/colette-claudine-a-l-ecole.epub",
+      "bytes": 182853,
+      "sha256": "ad064f1fa73cea1f77b6313536d5b1d10bc00dcefc0901f1514c19df374bc5a5"
     },
     {
       "id": "maupassant-contes-du-jour-et-de-la-nuit",
