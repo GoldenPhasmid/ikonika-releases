@@ -1,0 +1,306 @@
+{
+  "schema": 1,
+  "target": "pt",
+  "books": [
+    {
+      "id": "junqueiro-contos-para-a-infancia",
+      "title": "Contos para a Infância",
+      "author": "Abílio Manuel Guerra Junqueiro",
+      "level": "beginner",
+      "file": "junqueiro-contos-para-a-infancia.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/junqueiro-contos-para-a-infancia.epub",
+      "bytes": 163987,
+      "sha256": "ab94263836a73e1651db14f048f90e93ce0accb087667faa929af615be16faf4"
+    },
+    {
+      "id": "grimm-perolas-e-diamantes",
+      "title": "Pérolas e Diamantes",
+      "author": "Irmãos Grimm",
+      "level": "beginner",
+      "file": "grimm-perolas-e-diamantes.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/grimm-perolas-e-diamantes.epub",
+      "bytes": 1856569,
+      "sha256": "f4137869abda5c6d55cb02dae77ce69f4adbb43aa5c561b828c31143d246b94b"
+    },
+    {
+      "id": "trindade-coelho-os-meus-amores",
+      "title": "Os Meus Amores",
+      "author": "Trindade Coelho",
+      "level": "beginner",
+      "file": "trindade-coelho-os-meus-amores.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/trindade-coelho-os-meus-amores.epub",
+      "bytes": 194156,
+      "sha256": "073a74d9029d0ace6bec7f015fbfeba145f16f79197fe5141044d74a90ed1027"
+    },
+    {
+      "id": "coelho-netto-misterio-do-natal",
+      "title": "Mistério do Natal",
+      "author": "Henrique Coelho Netto",
+      "level": "beginner",
+      "file": "coelho-netto-misterio-do-natal.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/coelho-netto-misterio-do-natal.epub",
+      "bytes": 51428,
+      "sha256": "07bd4d609f23d7473d2c3c351d53147a29c27bf7f7c4faa8779c76eb17e9a1d5"
+    },
+    {
+      "id": "carvalho-contos-paraenses",
+      "title": "Contos Paraenses",
+      "author": "João Marques de Carvalho",
+      "level": "beginner",
+      "file": "carvalho-contos-paraenses.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/carvalho-contos-paraenses.epub",
+      "bytes": 70928,
+      "sha256": "afc3ddcfd1411588ce9add70ac8a03d2b09c700929c83309a587bbee405a61d4"
+    },
+    {
+      "id": "haggard-as-minas-de-salomao",
+      "title": "As Minas de Salomão",
+      "author": "H. Rider Haggard",
+      "level": "intermediate",
+      "file": "haggard-as-minas-de-salomao.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/haggard-as-minas-de-salomao.epub",
+      "bytes": 180661,
+      "sha256": "667f51807350e0f60c5445fe37e513074f472f4fb8770945ea5f86fc380dad9f"
+    },
+    {
+      "id": "eca-de-queiros-o-mandarim",
+      "title": "O Mandarim",
+      "author": "Eça de Queirós",
+      "level": "intermediate",
+      "file": "eca-de-queiros-o-mandarim.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/eca-de-queiros-o-mandarim.epub",
+      "bytes": 76295,
+      "sha256": "2a526d304f82ad9a3fd22c2c118bcc9d3ccd03138531d4a28ba427419760767a"
+    },
+    {
+      "id": "alencar-cinco-minutos",
+      "title": "Cinco Minutos",
+      "author": "José de Alencar",
+      "level": "intermediate",
+      "file": "alencar-cinco-minutos.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/alencar-cinco-minutos.epub",
+      "bytes": 94541,
+      "sha256": "2263d672e52c644834479f72d2cb9e5af2a79edfad289c951368c5f91473e849"
+    },
+    {
+      "id": "machado-de-assis-a-mao-e-a-luva",
+      "title": "A Mão e a Luva",
+      "author": "Machado de Assis",
+      "level": "intermediate",
+      "file": "machado-de-assis-a-mao-e-a-luva.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/machado-de-assis-a-mao-e-a-luva.epub",
+      "bytes": 192800,
+      "sha256": "e4d843f964ee25c56d46999d4c4667996e8b1dbe11fd724d31b7fd303f58e039"
+    },
+    {
+      "id": "machado-de-assis-helena",
+      "title": "Helena",
+      "author": "Machado de Assis",
+      "level": "intermediate",
+      "file": "machado-de-assis-helena.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/machado-de-assis-helena.epub",
+      "bytes": 200049,
+      "sha256": "9b9ea7b3464a3e014ae958a7ce636bb1b36bc96c9504f5d72ae387f9196a2482"
+    },
+    {
+      "id": "machado-de-assis-historias-sem-data",
+      "title": "Histórias sem Data",
+      "author": "Machado de Assis",
+      "level": "intermediate",
+      "file": "machado-de-assis-historias-sem-data.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/machado-de-assis-historias-sem-data.epub",
+      "bytes": 142431,
+      "sha256": "b88efb0a22209b38c82b8cb3027144cb5fff2bfa75d867064a32e2ade3d8edf9"
+    },
+    {
+      "id": "machado-de-assis-papeis-avulsos",
+      "title": "Papéis Avulsos",
+      "author": "Machado de Assis",
+      "level": "intermediate",
+      "file": "machado-de-assis-papeis-avulsos.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/machado-de-assis-papeis-avulsos.epub",
+      "bytes": 379687,
+      "sha256": "c41556d1c2acd690cd5e3a3c7aa58331046ced85ce584c5c5305e23e9a2e6708"
+    },
+    {
+      "id": "eca-de-queiros-contos",
+      "title": "Contos",
+      "author": "Eça de Queirós",
+      "level": "intermediate",
+      "file": "eca-de-queiros-contos.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/eca-de-queiros-contos.epub",
+      "bytes": 420811,
+      "sha256": "79afe72fa7c3e97c15c89df2d397e3dccdbf7e24fe5c4e9e5369b028a852ec3c"
+    },
+    {
+      "id": "julio-dinis-a-morgadinha-dos-canaviais",
+      "title": "A Morgadinha dos Canaviais",
+      "author": "Júlio Dinis",
+      "level": "intermediate",
+      "file": "julio-dinis-a-morgadinha-dos-canaviais.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/julio-dinis-a-morgadinha-dos-canaviais.epub",
+      "bytes": 428685,
+      "sha256": "645fdbc3e78bb221dfe070d1aeedcfd6ef7f499ef421c1652e12cded5ee79b90"
+    },
+    {
+      "id": "julio-dinis-os-fidalgos-da-casa-mourisca",
+      "title": "Os Fidalgos da Casa Mourisca",
+      "author": "Júlio Dinis",
+      "level": "intermediate",
+      "file": "julio-dinis-os-fidalgos-da-casa-mourisca.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/julio-dinis-os-fidalgos-da-casa-mourisca.epub",
+      "bytes": 396102,
+      "sha256": "528156e55731c2dc6895a5b3d8e2e69391aac9c8ddd99b105324f3456f9d886b"
+    },
+    {
+      "id": "garrett-frei-luis-de-sousa",
+      "title": "Frei Luís de Sousa",
+      "author": "Almeida Garrett",
+      "level": "intermediate",
+      "file": "garrett-frei-luis-de-sousa.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/garrett-frei-luis-de-sousa.epub",
+      "bytes": 54954,
+      "sha256": "62332546b02fab1b9daa02d41d0492b5b2106ba89e5e91d44429fe11790eacdd"
+    },
+    {
+      "id": "verne-da-terra-a-lua",
+      "title": "Da Terra à Lua",
+      "author": "Jules Verne",
+      "level": "intermediate",
+      "file": "verne-da-terra-a-lua.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/verne-da-terra-a-lua.epub",
+      "bytes": 182773,
+      "sha256": "015b00b8d15dd1126737daa1c51309394696c94afe364a55db28c48ca30ee3bd"
+    },
+    {
+      "id": "taunay-historias-brasileiras",
+      "title": "Histórias Brasileiras",
+      "author": "Alfredo d'Escragnolle Taunay",
+      "level": "intermediate",
+      "file": "taunay-historias-brasileiras.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/taunay-historias-brasileiras.epub",
+      "bytes": 161764,
+      "sha256": "f344bc110e641d64f93ce6bce8de870664e17ccfa333b93a8ee89af1c2467fda"
+    },
+    {
+      "id": "alencar-iracema",
+      "title": "Iracema",
+      "author": "José de Alencar",
+      "level": "intermediate",
+      "file": "alencar-iracema.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/alencar-iracema.epub",
+      "bytes": 285168,
+      "sha256": "7a7aa99731fe407f7104186ef422dd4b6c7fa6cec36fd4cebd09ae6a5733018b"
+    },
+    {
+      "id": "machado-de-assis-dom-casmurro",
+      "title": "Dom Casmurro",
+      "author": "Machado de Assis",
+      "level": "advanced",
+      "file": "machado-de-assis-dom-casmurro.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/machado-de-assis-dom-casmurro.epub",
+      "bytes": 219624,
+      "sha256": "6b237876b0a7daef5087f8dac8ea44be16e0c36b74679bb123fe7e6d92748847"
+    },
+    {
+      "id": "machado-de-assis-memorias-postumas-de-bras-cubas",
+      "title": "Memórias Póstumas de Brás Cubas",
+      "author": "Machado de Assis",
+      "level": "advanced",
+      "file": "machado-de-assis-memorias-postumas-de-bras-cubas.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/machado-de-assis-memorias-postumas-de-bras-cubas.epub",
+      "bytes": 228221,
+      "sha256": "bc4c255d83ec9ca25b66cd73ee7300cf39318f8f378d118dec06b84a2f2e1d8c"
+    },
+    {
+      "id": "machado-de-assis-quincas-borba",
+      "title": "Quincas Borba",
+      "author": "Machado de Assis",
+      "level": "advanced",
+      "file": "machado-de-assis-quincas-borba.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/machado-de-assis-quincas-borba.epub",
+      "bytes": 281461,
+      "sha256": "065275580cc3e112e64ea7ad38236ca0f663c74c7eceb5255e87b117326f6df3"
+    },
+    {
+      "id": "eca-de-queiros-os-maias",
+      "title": "Os Maias",
+      "author": "Eça de Queirós",
+      "level": "advanced",
+      "file": "eca-de-queiros-os-maias.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/eca-de-queiros-os-maias.epub",
+      "bytes": 629457,
+      "sha256": "c1e8f98f7aff942320370f38dda53f5acfd9076617551dd8b41368b4fb4143bb"
+    },
+    {
+      "id": "eca-de-queiros-o-primo-basilio",
+      "title": "O Primo Basílio",
+      "author": "Eça de Queirós",
+      "level": "advanced",
+      "file": "eca-de-queiros-o-primo-basilio.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/eca-de-queiros-o-primo-basilio.epub",
+      "bytes": 404165,
+      "sha256": "ec36e892a63f6a18bbd65ce0fe9d673c0ccbbf8f06fdc5253936e2ee302da05a"
+    },
+    {
+      "id": "eca-de-queiros-o-crime-do-padre-amaro",
+      "title": "O Crime do Padre Amaro",
+      "author": "Eça de Queirós",
+      "level": "advanced",
+      "file": "eca-de-queiros-o-crime-do-padre-amaro.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/eca-de-queiros-o-crime-do-padre-amaro.epub",
+      "bytes": 415708,
+      "sha256": "8d047bdb72a443e83e3ee9b8f1cf01d8d9d07704c6eb0c7685df67e8f7563bc4"
+    },
+    {
+      "id": "eca-de-queiros-a-cidade-e-as-serras",
+      "title": "A Cidade e as Serras",
+      "author": "Eça de Queirós",
+      "level": "advanced",
+      "file": "eca-de-queiros-a-cidade-e-as-serras.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/eca-de-queiros-a-cidade-e-as-serras.epub",
+      "bytes": 245004,
+      "sha256": "c0405e5a28b64ceb333ac55a807a45459dc75c54419970a76d53f617d3b1e614"
+    },
+    {
+      "id": "castelo-branco-amor-de-perdicao",
+      "title": "Amor de Perdição",
+      "author": "Camilo Castelo Branco",
+      "level": "advanced",
+      "file": "castelo-branco-amor-de-perdicao.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/castelo-branco-amor-de-perdicao.epub",
+      "bytes": 138369,
+      "sha256": "f15ef8f7df3de27a24533930ea0c146daba805911c0fb367e853575e19b1dc03"
+    },
+    {
+      "id": "camoes-os-lusiadas",
+      "title": "Os Lusíadas",
+      "author": "Luís de Camões",
+      "level": "advanced",
+      "file": "camoes-os-lusiadas.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/camoes-os-lusiadas.epub",
+      "bytes": 164893,
+      "sha256": "48fb8b2dafc04b15c7d5d62d0e1d49762c291975c94b275973c7d7a315766c88"
+    },
+    {
+      "id": "lima-barreto-triste-fim-de-policarpo-quaresma",
+      "title": "Triste Fim de Policarpo Quaresma",
+      "author": "Lima Barreto",
+      "level": "advanced",
+      "file": "lima-barreto-triste-fim-de-policarpo-quaresma.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/lima-barreto-triste-fim-de-policarpo-quaresma.epub",
+      "bytes": 226240,
+      "sha256": "afafe1945def3dfb079030da0e22e644296257e977e0700116a4d5e5c22a54db"
+    },
+    {
+      "id": "azevedo-o-cortico",
+      "title": "O Cortiço",
+      "author": "Aluísio Azevedo",
+      "level": "advanced",
+      "file": "azevedo-o-cortico.epub",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/books-pt/azevedo-o-cortico.epub",
+      "bytes": 373118,
+      "sha256": "a49f0f8baf3f3f4cb6ddd6dafba67e68e0cb4294ac41491dbbb5a68a09992fbd"
+    }
+  ]
+}
