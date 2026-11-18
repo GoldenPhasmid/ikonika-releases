@@ -163,6 +163,20 @@
       "desktopOnly": true
     },
     {
+      "id": "piper-pt-voice3",
+      "kind": "voice",
+      "name": "Piper",
+      "target": "pt",
+      "version": 1,
+      "file": "piper-pt-voice3.zip",
+      "unpackTo": "piper-pt-voice3",
+      "url": "https://github.com/GoldenPhasmid/ikonika-releases/releases/download/voice-piper-pt-voice3-1/piper-pt-voice3.zip",
+      "bytes": 67442131,
+      "unpackedBytes": 81509329,
+      "sha256": "cbe4caba8ac60d27dcd3a25759828e1d13d6f4ddce056c908dc14ff2e8b7d106",
+      "desktopOnly": true
+    },
+    {
       "id": "opus-mt-fr-en",
       "kind": "translation",
       "target": "fr",
